@@ -1,0 +1,5 @@
+Guide
+
+Step 3: Check the reactor temperature. If it is above 300F activate the Reactor coolant.
+Step 4: Activate the Reactor, green button to your right.
+

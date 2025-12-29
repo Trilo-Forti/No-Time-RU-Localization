@@ -1,0 +1,10 @@
+The PLC is made out of several important components!
+
+1. The main CRT display is your way of receiving the devices output!
+2. The compass tells you your direction on the horizontal plane!
+3. The Radiation meter will start clicking if you are in a radioactive area!
+4. Control knobs, use the extendable keyboard to type!
+5. This is your time wipe meter. If it flashes a time wipe will ensue! The timeline gets flattened out!
+   [Items you left somewhere on Pine Island will get lost, your past selves get erased, major changes will stay however. REMEMBER THIS]
+6. The date meter! It translates your current position on the time wave into the current time!
+   [It also adjusts its color to blue if your recorded quest is in the current time]

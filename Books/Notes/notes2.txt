@@ -1,0 +1,4 @@
+Step 5: Toggle time conduction lever to your right.
+Step 6: Interact with time display.
+Step 7: Type in the target in numbers "mmddyyyyhhmm". Aftewards enter or Confirm button.
+Step 8: The travel sequence starts at 70 mph.

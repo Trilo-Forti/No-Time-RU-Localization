@@ -1,0 +1,10 @@
+Here is a list of different system features!
+
+WORLD MAP
+-Based on real time gps data from ED 4000 currently in orbit!
+JOURNAL/DATA
+-"Active" shows your current Tasks! "Over" displayes your solved or failed tasks!
+-The File tabs allows you to make your custom personal notes or even write programs!
+STATS
+-Mainly to watch your caffeine intake, at least you're not drinking as much Soda Perfect anymore.
+That stuff is pure acid man! Should be used for cleaning clogged sewer pipes at best.

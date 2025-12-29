@@ -1,0 +1,12 @@
+- You will receive an up to date height map as 
+well as a gps location of the car on the map!
+Your car got stuck somewhere?
+-Use the grav hook to push the car out
+of the problem!
+
+Chapter 2: PLC
+The Personal Log Computer
+
+I've built this tool to aid you on your adventures!
+Help you keep track of detail, and not lose yourself
+in time!
