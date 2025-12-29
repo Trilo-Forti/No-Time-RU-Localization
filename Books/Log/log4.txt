@@ -1,0 +1,11 @@
+<ENTRY>
+MR. Crimson ordered to make the nuclear strike ready.
+Since Mr. Athor and his collegue have escaped, the safety of our endevour might be in danger.
+
+<ENTRY>
+The transport has been made ready.
+The Consul will attempt to convince Mr. Athor and Paul Clearman.
+
+<ENTRY>
+Mr. Crimson repurposed the robot into an execution unit.
+<NEXT PAGE>

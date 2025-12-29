@@ -1,0 +1,10 @@
+//1#
+//GET AN EMPTY HVD!
+//2#
+//Insert it into the PLC!
+//3#
+//Create a new file named "startup.eee"
+//4# inside it write this into the first line
+//this will send you to 2014 the value works as follows
+//5#mmddyyyymmhh
+overridedate 101020141200

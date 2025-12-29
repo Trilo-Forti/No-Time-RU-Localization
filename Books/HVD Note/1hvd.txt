@@ -1,0 +1,9 @@
+//6# DO NOT EXECUTE THE COMMAND, BUT EJECT THE HVD!
+// to write bc dates simply write a minus infront of it like that
+overridedate -101020141200
+//7# execute the time graph command on the PLC to search for a date that can be
+//travelled to
+timegraph
+//8# finally use the HVD Chip blueprint and craft a chip
+// with the written HVD
+//9# you're good to go!
