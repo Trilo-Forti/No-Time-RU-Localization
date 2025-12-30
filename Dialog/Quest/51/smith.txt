@@ -1,52 +1,52 @@
-(Grumbling) What do you want? 
-I am looking for work.
-I could have use for a new apprentice. Are you any good for this?
-If you mean whether I can forge...
-No that was not my meaning. I can't use any weaklings around here (Takes a look at you) No offense, but you look like someone who'd break like a stick man from this hard work. And I currently don't look for good-for-nothings who bring shame to my workshop with low quality craft! Try it with the scribes or field workers before coming to me.
-No that was not my meaning. Though you do look like someone who can do the hard work, I guess I could teach you.
-Hey! I am not a good-for-nothing! I want to become a smith!
-(Laughs) Thanks for letting me know. Big words! Can you prove them with big actions?
-What is on your mind?
-Hmm, I won't force you to lift millstones to prove your manlyhood. I'd need someone bold.
-So what will it be?
-Bring me an old rusty sword of a bandit. They have been lifting them off graves and old dungeons. Outside town I've heard of them going about close to the boatshaped cave entrance in the south, and farther in the old forest.
-Bring me an old rusty sword of a bandit. They have been lifting them off graves and old dungeons. Outside town they've been spotted!
-A bandit, consider it done!
-Good! Then stop wasting words and let your actions speak!
-(Looks at you) You want to buy something? Listen I don't take good-for-nothings as apprantices. Want to prove yourself? Bring me an old rusty sword of one of those pesky bandits outside town. I want to see it on my table!
-Got your rusty sword!
-Show me! Good, fine perhaps I will be able to use you for something after all. I can use a good man around.
-So when can I start as apprentice?
-Technically right away. You will be working for me for some time. I suggest that afterwards you are to move about the lands and learn from other smiths to perfect your craft. This is how it is done! Oh and if you need sleep, there is a free bed in my house.
-Alright!
-Teach me the basics.
-Alright young boy. First you need to know how to smelt, take iron ore and smelt it there at the furnace into ingots, using the bellows. Then using these ingots, you will form a sword blank at the furnace.
-How do I make a sword? (20 Shillings)
-How do I make a viking sword? (20 Shillings)
-Teach me the making of noble viking swords (50 Shillings)
-How do I make a sword? (20 Dollars)
-Now you head to the anvil with your sword blank in hand, plan out what you want to create. Drop your future sword into the fire and heat it up. Form it into a good blade with your hammer with precise hits. Try to make the best out of it whilst the blade is hot. Finish it by cooling it off. Your first swords won't be masterpieces, but you can learn everything else later. Here, this hammer and blanks are for free!
-How do I make a noble sword? (150 Shillings)
-Patience make the master, remember this when making this sword. Every hammer beat counts and needs to land properly. These swords were used by nobility in the old times of Lechwia, craft it with care.
-How do I make a Ark ore sword? (350 Shillings)
-Ah the famed ore swords! Making ore blades is a very complex and expensive process. You have to lace the blank with the ark or make an alloy. They were used of old in the first war with the nords. It is something about the orichalcum or ark ore, that makes these swords especially resistant to damage and makes them the perfect material to be made extremely sharp!
-Can you teach me to craft sabers? (280 Shillings)
-The notorious curved form is achieved in the heat. Pay attention that the roundness of the metal does not end up looking bad once done. These types of sabers were used in the war with the north pirates long ago.
-Gætir þú kennt mér smíði (Can you teach me smithing?)
-Sanna þig sjálfan til að vera góðr í eitthvárt! Þegar einn af oss, þá tölum vér! (Prove yourself that you are good for something! Once one us, we talk!)
-Smíð, tak járn nám og smíð það þar við ofninn í ingota. Notaðu ingota, og smíð í sverð bál. (Alright smelting, take iron ore and smelt it there at the furnace into ingots. Use ingots, and smelt into sword blank).
-Nyt sverðblanka með hamri ok ávala sverð. Hita upp ok slá með hamri (Use sword blank with anvil and plan sword. Heat up and beat with hammer).
-Kongsveðr. Noti sveðr blanka með hamri ok hljóð. Hita upp ok slá með hamri varlega. Þolinmæði er meistar. (A kingly sword. Use sword blank with anvil and plan sword. Heat up and beat with hammer carefully. Patience is mastery).
-Where have you been? It's been quite some time!
-I want to sell my forged stuff!
-Good! Here is your payment!
-Come back once you got more money!
-Can you teach me smithing?
-No offense, but I'd only take you if you at least had some experience in this craft.
-How do I make a noble sword? (150 Dollars)
-Koom ruck wann Gulden (Come back once you got the money).
-Wait, where are you going? I was gonna tell you somethin!
-No that was not my meaning. I can't use any weaklings around here. (Takes a close look at you) Gain some muscles, then we talk again!
-Ek vil selja mínu smíðaðu hlutir! (Good here is your money)
-Place it on the table then!
-Setjið þá á borðið (Place it on the table!)
+(Ворча) Что тебе нужно?
+Я ищу работу.
+Мне бы пригодился новый ученик. Ты на что-нибудь годишься?
+Если ты имеешь в виду, могу ли я ковать...
+Нет, я не это имел в виду. Мне тут никчёмные не нужны (Осматривает тебя) Без обид, но ты выглядишь как тот, кто сломается, как тростинка, от такой тяжёлой работы. И в данный момент я не ищу бездельников, которые позорят мою мастерскую низкокачественными поделками! Попробуй сначала у писцов или полевых рабочих, прежде чем идти ко мне.
+Нет, я не это имел в виду. Хотя ты и выглядишь как тот, кто может выполнять тяжёлую работу, думаю, я мог бы тебя обучить.
+Эй! Я не бездельник! Я хочу стать кузнецом!
+(Смеётся) Спасибо, что сообщил. Громкие слова! Можешь доказать их громкими делами?
+Что у тебя на уме?
+Хм, я не буду заставлять тебя поднимать жернова, чтобы доказать свою мужественность. Мне нужен кто-то смелый.
+Так что на чём остановимся?
+Принеси мне старый ржавый меч бандита. Они снимают их с могил и старых подземелий. За городом я слышал, что они шныряют рядом с входом в лодкообразную пещеру на юге и дальше в старом лесу.
+Принеси мне старый ржавый меч бандита. Они снимают их с могил и старых подземелий. За городом их видели!
+Бандит, считай, что сделано!
+Хорошо! Тогда хватит тратить слова, пусть твои поступки говорят сами!
+(Смотрит на тебя) Хочешь что-то купить? Слушай, я не беру бездельников в ученики. Хочешь доказать себя? Принеси мне старый ржавый меч одного из этих надоедливых бандитов за городом. Хочу увидеть его на своём столе!
+Вот твой ржавый меч!
+Покажи! Хорошо, возможно, я смогу найти для тебя применение после всего. Мне нужен хороший человек рядом.
+Так когда я могу начать как ученик?
+Технически сразу. Ты будешь работать на меня какое-то время. Я советую, чтобы впоследствии ты отправился по свету и поучился у других кузнецов, чтобы отточить своё мастерство. Так это делается! О, и если тебе нужно поспать, в моём доме есть свободная кровать.
+Хорошо!
+Обучи меня основам.
+Ладно, юноша. Сначала тебе нужно знать, как плавить, бери железную руду и плавь её там, в печи, в слитки, используя мехи. Затем, используя эти слитки, ты будешь формировать заготовку меча в печи.
+Как мне сделать меч? (20 Шиллингов)
+Как мне сделать меч викинга? (20 Шиллингов)
+Научи меня делать благородные мечи викингов (50 Шиллингов)
+Как мне сделать меч? (20 Долларов)
+Теперь иди к наковальне с заготовкой меча в руке, продумай, что хочешь создать. Опусти свой будущий меч в огонь и нагрей его. Сформируй из него хороший клинок своим молотом точными ударами. Постарайся сделать всё возможное, пока клинок горяч. Заверши, остудив его. Твои первые мечи не будут шедеврами, но всему остальному ты научишься позже. Вот, этот молот и заготовки — бесплатно!
+Как мне сделать благородный меч? (150 Шиллингов)
+Терпение делает мастера, помни об этом при создании этого меча. Каждый удар молота имеет значение и должен быть нанесён правильно. Эти мечи использовались знатью в старые времена Лехвии, делай его с вниманием.
+Как мне сделать меч из Арк-руды? (350 Шиллингов)
+Ах, знаменитые мечи из руды! Создание клинков из руды — очень сложный и дорогой процесс. Тебе нужно либо покрыть заготовку арком, либо сделать сплав. Их использовали в старину в первой войне с нордами. Что-то в орихалкуме или арк-руде делает эти мечи особенно устойчивыми к повреждениям и идеальным материалом для придания невероятной остроты!
+Можешь научить меня делать сабли? (280 Шиллингов)
+Знаменитую изогнутую форму получают при нагреве. Следи, чтобы округлость металла не выглядела плохо в готовом виде. Такие сабли использовались в войне с северными пиратами давным-давно.
+Gætir þú kennt mér smíði (Можешь научить меня кузнечному делу?)
+Sanna þig sjálfan til að vera góðr í eitthvárt! Þegar einn af oss, þá tölum vér! (Докажи, что ты на что-нибудь годишься! Когда станешь одним из нас, тогда поговорим!)
+Smíð, tak járn nám og smíð það þar við ofninn í ingota. Notaðu ingota, og smíð í sverð bál. (Ладно, плавка: бери железную руду и плавь её там, в печи, в слитки. Используй слитки и плавь в заготовку меча).
+Nyt sverðblanka með hamri ok ávala sverð. Hita upp ok slá með hamri (Используй заготовку меча с наковальней и планируй меч. Нагревай и бей молотом).
+Kongsveðr. Noti sveðr blanka með hamri ok hljóð. Hita upp ok slá með hamri varlega. Þolinmæði er meistar. (Королевский меч. Используй заготовку меча с наковальней и планируй меч. Нагревай и бей молотом осторожно. Терпение — мастерство).
+Где ты был? Прошло довольно много времени!
+Я хочу продать свои кованые изделия!
+Хорошо! Вот твоя оплата!
+Возвращайся, когда будет больше денег!
+Можешь научить меня кузнечному делу?
+Без обид, но я бы взял тебя только если бы у тебя был хотя бы какой-то опыт в этом ремесле.
+Как мне сделать благородный меч? (150 Долларов)
+Koom ruck wann Gulden (Возвращайся, когда будут деньги).
+Стой, куда ты идёшь? Я же хотел тебе кое-что сказать!
+Нет, я не это имел в виду. Мне тут слабаки не нужны. (Пристально смотрит на тебя) Тебе нужно немного подкачаться, потом поговорим снова!
+Ek vil selja mínu smíðaðu hlutir! (Хорошо, вот твои деньги)
+Тогда клади на стол!
+Setjið þá á borðið (Тогда клади на стол!)

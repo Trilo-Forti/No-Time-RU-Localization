@@ -1,35 +1,35 @@
-So I had this idea going on.
-What do you think?
-An electromagnetic plasma accelerator. A gun that shoots bursts of ionized gas! ...In the 40 Watt range. If my calculations are correct it will work as a kind of stun gun, not being lethal. I got everything but a magnetometer and revolver parts, from the 1880s. Could you get them by any chance?
-So?
-Ah sure.
-Great!
-So! Got the things? Place them on the table please.
-Alright here.
-Great! Here is the rest of the stuff, I have put together this aparatus while you were getting the things, I call it Mr. Crafty! Now put the items next to my invention, the crafty. I programed the plans for the gun into the machine.
-Why that revolver?
-If your gonna build a futuristic gun, why not with style? Besides the alloy of the casing was non conductive in those days. So you wont get an electric shock.
-Where will I get the revolver.
-I don´t know look if they offer it at a YeBay station, there should be one here at the town square. (Grinning) I am sure you can handle that task.
-Yes?
-And afterwards?
-Test the gun in the backyard. I built that target practicing robot some time ago. I never managed to modify it to a more user friendly, safe, difficulty level. Shoot at it, to trigger the training mode. (Pauses) Well afterwards tell me how it worked.
-What if I lose Mr. Crafty?
-I put a patent on it. You can buy my first successful invention in every 6/12 store.
-How do I use Mr. Crafty?
-Have the stuff you need for your crafting next to the device. Then activate it and select a craftitem in the menu. Then press craft.
-Ah you're back.
-That robot was a bit aggressive.
-I told you! I did not manage to calibrate it to work userfriendly! So did it work?
-Sorry for that miscomfort I hope you can forgive me. But did it work?
-It's more of a plasma fart, than a plasma gun!
-It works as expected! This base model is weak, go to the workbench downstairs in my basement to modify the EPA! I can give you either another capacitor or a noble gas for your epa. Those mid tier capacitors from 6/12 are the best by the way! Also, hydrogen gas is strong and gives this super rad purple plasma! Any noble gas will be stronger than pure air plasma! With the right enhancements you will become unstoppable!
-Sorry for that miscomfort I hope you can forgive me. But did it work?
-I tried out the workbench. What's up next?
-Great! (thinks) We might need to do a hover conversion on the car!
-Sorry for that miscomfort I hope you can forgive me. But did it work?
-A hover conversion?
-Yes! That would give you an opportunity of using the sky to your advantage! I mean why not! Besides who doesn't like flying cars, am I right?
-Give me the capacitor!
-Give me the noble gas!
-Alright here, take it from the table, head downstairs and implement your new addon into the gun! Oh, and don't turn the voltage cap beyond the rating of the capacitors, unless you want them explode in your face of course.
+Так вот, у меня была идея.
+Что думаешь?
+Электромагнитный плазменный ускоритель. Пистолет, который стреляет сгустками ионизированного газа! ...В диапазоне 40 Ватт. Если мои расчёты верны, он будет работать как своего рода электрошокер, не смертельный. У меня есть всё, кроме магнитометра и деталей револьвера 1880-х годов. Не мог бы ты их достать?
+Итак?
+А, конечно.
+Отлично!
+Так! Достал вещи? Положи их на стол, пожалуйста.
+Ладно, вот.
+Отлично! Вот остальные вещи, я собрал этот аппарат, пока ты ходил, я называю его Мистер Крафти! Теперь положи предметы рядом с моим изобретением, крафти. Я запрограммировал планы пистолета в машину.
+Зачем тот револьвер?
+Если собираешься строить футуристичный пистолет, почему бы не со стилем? К тому же сплав корпуса в те времена был непроводящим. Так что ты не получишь удар током.
+Где я возьму револьвер.
+Не знаю, посмотри, не предлагают ли его на станции YeBay, одна должна быть здесь на городской площади. (Ухмыляясь) Уверен, ты справишься с этой задачей.
+Да?
+И потом?
+Протестируй пистолет на заднем дворе. Я построил того робота для тренировки по стрельбе некоторое время назад. Мне так и не удалось модифицировать его на более удобный, безопасный уровень сложности. Стреляй в него, чтобы активировать режим тренировки. (Пауза) Ну, а потом расскажи, как сработало.
+Что, если я потеряю Мистера Крафти?
+Я запатентовал его. Ты можешь купить моё первое успешное изобретение в любом магазине 6/12.
+Как использовать Мистера Крафти?
+Положи вещи, необходимые для крафта, рядом с устройством. Затем активируй его и выбери предмет для крафта в меню. Затем нажми "создать".
+Ах, ты вернулся.
+Тот робот был немного агрессивным.
+Я же говорил! Мне не удалось откалибровать его для удобного использования! Так сработало?
+Извини за этот дискомфорт, надеюсь, ты простишь меня. Но сработало ли?
+Это больше похоже на плазменный пук, чем на плазменный пистолет!
+Он работает как и ожидалось! Эта базовая модель слаба, иди к верстаку внизу в моём подвале, чтобы модифицировать ЭПУ! Я могу дать тебе либо дополнительный конденсатор, либо благородный газ для твоего ЭПУ. Кстати, конденсаторы среднего класса из 6/12 — лучшие! Также, газообразный водород мощный и даёт эту супер крутую фиолетовую плазму! Любой благородный газ будет сильнее, чем чистая воздушная плазма! С правильными улучшениями ты станешь непобедимым!
+Извини за этот дискомфорт, надеюсь, ты простишь меня. Но сработало ли?
+Я попробовал верстак. Что дальше?
+Отлично! (думает) Нам, возможно, нужно сделать ховер-конверсию на машине!
+Извини за этот дискомфорт, надеюсь, ты простишь меня. Но сработало ли?
+Ховер-конверсия?
+Да! Это даст тебе возможность использовать небо в своих интересах! Я имею в виду, почему бы и нет! Кроме того, кому не нравятся летающие машины, правда?
+Дай мне конденсатор!
+Дай мне благородный газ!
+Хорошо, вот, возьми его со стола, спустись вниз и внедри свой новый модуль в пистолет! О, и не поворачивай ограничитель напряжения выше номинала конденсаторов, если, конечно, не хочешь, чтобы они взорвались у тебя перед лицом.

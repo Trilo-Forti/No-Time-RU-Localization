@@ -1,43 +1,43 @@
-Hello and welcome to NO TIME, a lost in days studio experience
-To begin the tutorial step forward into the light. Otherwise step back.
-(Press to move)
-Crouch and jump like this >>
-Pick up the uranium next to the car.
-(Press to pick up)
-Put the uranium on top of the reaction chamber. Hold <color=#FFBF00> [!IN$_CtlPQuestlog!IN$] </color> to access your inventory wheel or use the numbers <color=#FFBF00>[1] to [7]</color> take out an item quickly. Chose the hand symbol to have free hands! Use the <color=#FFBF00>Mouse Wheel</color> to hold your item farther or closer to you.
-To open your notepad...
-Press: 
-Read the <color=#FFBF00>"useful notes"</color>. They should in front of the car. On the table.
-After reading the notes get into the car by using the <color=#FFBF00>steering wheel</color>. Press <color=#FFBF00> [!IN$_CtlPUse!IN$] </color> to interact with objects!
-<<<REMEMBER ONLY IF YOU ARE IN THE RIGHT TIME WILL THE QUEST PROGRESS, THE CURRENT TIME BELOW WILL THEN APPEAR BLUE.
---Please preserve the  <color=#FFBF00>" and the "</color> tags as is, since they get used by the code to color the text in the middle--
-SAVE
-LOAD
-WATCH THE REACTOR TEMPERATURE!
-Put the uranium on top of the reaction chamber. Interact with the reactor chamber whilst holding the item.
-(Hold the questlog button in to cycle through your inventory if you need a free hand).
->>NO PASSAGE<<<
->>WALL OBSTACLE AHEAD<<
->>BUILT AFTER 1983<<
->>FREE ROAD BRO ;)<<
-Escape this building! An obstacle is blocking the exit in front of you!
-Hello, ah hello? Welcome, this is a recording of ...err me! Your butler in time! The voice from earlier! 
-I devised this course to lead you through the basics of temporal adventuring!
-Let us start with defending yourself on your adventures! 
-Hm... I forgot the training gun, back in 1972! Travel to that year and retrieve it from that little island behind you, between the two pine trees! 
-Jump to 1972, pick up the gun from between the two pines behind you! Then travel back and show the gun to me! The control panel to your right will give you additional reactor fuel cells!
-Hello, time venturer! You actually came in too early. You traveled to a point before I ever gave you any quest, I therefore have no context to our prior conversations!
-Good job time venturer! Look behind you, you will see the combat course, approach to begin!
-Alright! Let us begin with an easy set of enemies! Track and take them all down!
-Good! If you need to replenish your health, there are snacks next to the start area!
-You are a great fighter! Hmm one second I am getting a temporal proximity warning!
-Great, this should be all for the moment. I have a little surprise for you. Two experimental tools, next to me where you first encountered my hologram! 
-You will find I just opened a new gate, that will lead you into the main story! Stay a while if you want to play around a little longer with the tools or explore the area! Enjoy!
-To start the next round head back to the blue arrow!
-Alright let's continue!
-Take this sword! More enemies are coming! Control blocking and attack directions based on your view movement!
-An enemy time car is approaching! Hurry there is little time get to your car!
-You can attatch your gun to the front of the car! Those slots with the yellow black stripes! Hurry! Afterwards get in the car!
-Alright, quick! Get in the car!
-Here they come!
-Then travel back to me, to continue our training! You will find a control panel next to your right, which will spawn you an additional fuel cells for a time jump!
+Здравствуйте и добро пожаловать в NO TIME, впечатление от Lost In Days Studio
+Чтобы начать обучение, шагните вперёд, в свет. Иначе отступите назад.
+(Нажмите для движения)
+Присядьте и подпрыгните вот так >>
+Поднимите уран рядом с машиной.
+(Нажмите для подбора)
+Поместите уран на верх реакторной камеры. Удерживайте <color=#FFBF00> [!IN$_CtlPQuestlog!IN$] </color> для доступа к инвентарному колесу или используйте цифры <color=#FFBF00>[1] до [7]</color> для быстрого выбора предмета. Выберите символ руки, чтобы освободить руки! Используйте <color=#FFBF00>Колёсико мыши</color>, чтобы держать предмет дальше или ближе.
+Чтобы открыть свой PLC...
+Нажмите:
+Прочтите <color=#FFBF00>"полезные заметки"</color>. Они должны быть перед машиной. На столе.
+После прочтения заметок садитесь в машину, наведитесь на <color=#FFBF00>руль</color>. Нажимайте <color=#FFBF00> [!IN$_CtlPUse!IN$] </color> для взаимодействия с объектами!
+<<<ПОМНИТЕ: КВЕСТ БУДЕТ ПРОДВИГАТЬСЯ ТОЛЬКО ЕСЛИ ВЫ В НУЖНОМ ВРЕМЕНИ, ТЕКУЩЕЕ ВРЕМЯ ВНИЗУ ТОГДА СТАНЕТ СИНИМ.
+--Пожалуйста, сохраняйте теги <color=#FFBF00>" и "</color> как есть, поскольку они используются кодом для окрашивания текста посередине--
+СОХРАНИТЬ
+ЗАГРУЗИТЬ
+СЛЕДИТЕ ЗА ТЕМПЕРАТУРОЙ РЕАКТОРА!
+Поместите уран на верх реакторной камеры. Взаимодействуйте с реакторной камерой, удерживая предмет.
+(Удерживайте кнопку журнала заданий для переключения между предметами в инвентаре, если нужна свободная рука).
+>>ВНИМАНИЕ<<<
+>>ВПЕРЕДИ - СТЕНА<<
+>>ПОСТРОЕНА ПОСЛЕ 1983<<
+>>ДОРОГА СВОБОДНА, БРО ;)<<
+Выберитесь из этого здания! Преграда блокирует выезд перед вами!
+Привет, а, здравствуйте? Добро пожаловать, это запись... э-э... меня! Вашего дворецкого во времени! Голоса из начала!
+Я разработал этот курс, чтобы провести вас через основы временных приключений!
+Начнём с защиты себя в приключениях!
+Хм... Я забыл тренировочный пистолет, в 1972 году! Перенеситесь в тот год и заберите его с того маленького островка позади вас, между двумя соснами!
+Перейдите в 1972 год, подберите пистолет между двумя соснами позади вас! Затем вернитесь и покажите мне пистолет! Панель управления справа предоставит вам дополнительные топливные элементы для реактора!
+Привет, временной искатель! Вы прибыли слишком рано. Вы перенеслись в точку до того, как я вообще давал вам какое-либо задание, поэтому у меня нет контекста наших предыдущих разговоров! Вернитесь обратно
+Хорошая работа, временной искатель! Посмотрите позади себя, вы увидите боевую полосу, подойдите, чтобы начать!
+Ладно! Начнём с лёгкого набора врагов! Выследите и уложите их всех!
+Хорошо! Если нужно восстановить здоровье, рядом со стартовой зоной есть перекусы!
+Вы отличный боец! Хм, одну секунду, я получаю предупреждение о временной близости!
+Отлично, на данный момент этого должно быть достаточно. У меня есть маленький сюрприз для вас. Два экспериментальных инструмента рядом со мной, где вы впервые встретили мой голограмму!
+Вы обнаружите, что я только что открыл новые врата, которые приведут вас в основную историю! Останьтесь ненадолго, если хотите ещё поиграть с инструментами или исследовать область! Наслаждайтесь!
+Чтобы начать следующий раунд, вернитесь к синей стрелке!
+Ладно, продолжим!
+Возьмите этот меч! Ещё враги приближаются! Управляйте блокировкой и направлениями атаки на основе движения вашего взгляда!
+Приближается вражеская временная машина! Спешите, времени мало, доберитесь до своей машины!
+Вы можете прикрепить свой ЭПА к капоту машины! Найди площадку с жёлто-чёрными полосами! После этого садитесь в машину!
+Ладно, быстро! Садись в машину!
+А вот и они!
+Затем вернитесь ко мне, чтобы продолжить наше обучение! Вы найдёте панель управления справа от себя, которая создаст вам дополнительные топливные элементы для временного прыжка!

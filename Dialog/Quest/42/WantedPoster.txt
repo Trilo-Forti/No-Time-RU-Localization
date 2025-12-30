@@ -1,40 +1,40 @@
-WANTED
-CAPTURE HIM FOR
+РАЗЫСКИВАЕТСЯ
+ПОЙМАЙТЕ ЕГО ЗА
 $
-Bring him to
-the barracks master in Cape Dun's fort at the docks to get your reward!
-Westwood at the police station in Pine Lake and get your reward!
-Hunted for:
-MURDER
-ROBBING
-ABDUCTION 
-PUBLIC UNREST
-He has been seen hiding in the boat shaped cavern south of park hill!
-He has been seen in the Old Forest Cave. South East of Pine Lake!
-He is reportedly hiding in Pine Lakes Sewer System!
-He has been seen making camp at the swamp north of Pine Lake!
-He has been seen highwayrobbing on the mountain road, that leads under the waterfall east of Cape Dun. South side of Mt. Uroruh.
-He has been seen making camp north of fort dun, where the ruins are!
-He reportetly escaped into the sewers of Cape Dun!
-He is reportedly hiding in the sewers of Cape Dun!
-He has been seen in the valley under Uroruh Mountain, marked by two rocks peaking out at both sides. SOUTH EAST of this village.
-He has last been seen in the high lands to the SOUTH EAST of the meadery.
-He has been seen in the high mountains south of Byroad.
-Last witnesses tell us of mugging someone with a club!
-Watch out! He has a gun!
-He reportedly is known for throwing bombs at people!
-He reportedly is a kook, throwing random things at people!
-COINS!
+Доставьте его
+к начальнику казарм в форте Кейп-Данна у доков, чтобы получить награду!
+к шерифу Вествуду в полицейский участок в Пайн-Лейк и получите награду!
+Разыскивается за:
+УБИЙСТВО
+ГРАБЁЖ
+ПОХИЩЕНИЕ
+НАРУШЕНИЕ ОБЩЕСТВЕННОГО ПОРЯДКА
+Его видели скрывающимся в лодкообразной пещере к югу от Парк-Хилл!
+Его видели в пещере Старого Леса. К юго-востоку от Пайн-Лейк!
+По сообщениям, он скрывается в канализационной системе Пайн-Лейк!
+Его видели разбившим лагерь на болоте к северу от Пайн-Лейк!
+Его видели грабящим на горной дороге, которая ведёт под водопад к востоку от Кейп-Данна. Южная сторона горы Урору.
+Его видели разбившим лагерь к северу от форта Данн, где находятся руины!
+По сообщениям, он сбежал в канализацию Кейп-Данна!
+По сообщениям, он скрывается в канализации Кейп-Данна!
+Его видели в долине под горой Урору, отмеченной двумя скалами, торчащими по обе стороны. К юго-востоку от этой деревни.
+Его в последний раз видели в высокогорье к юго-востоку от медовой фермы.
+Его видели в высоких горах к югу от Байроуда.
+Последние свидетели говорят, что он ограбил кого-то дубинкой!
+Осторожно! У него есть пистолет!
+По сообщениям, он известен тем, что кидается в людей бомбами!
+По сообщениям, он чудак, кидается в людей случайными предметами!
+МОНЕТЫ!
 
-MISSING
-is missing!
-Supposedly the person got abducted by the notorious ruffian
-. It is advised not to confront him as he is known for violent behavior. If you see this person, contact law enforcement immediately!
-The person was last seen about to wander to the nature reserve in the south, wanting to check out the cave systems. Search patrols have come up with nothing, do not bring yourself into danger by entering these caves alone!
-He has been reportedly hiding in the air ducts of the Hotel Block!
-Apparently he has been last seen fleeing into the tunnels of the fusion core.
-Apparently he has been seen on the Maintanence Level where mainstreet once was.
+ПРОПАЛ
+пропал!
+Предположительно, человек был похищен печально известным хулиганом
+. Не рекомендуется вступать с ним в конфликт, так как он известен насильственным поведением. Если вы увидите этого человека, немедленно свяжитесь с правоохранительными органами!
+Человек был в последний раз замечен собирающимся отправиться в природный заповедник на юге, желая проверить пещерные системы. Поисковые патрули ничего не нашли, не подвергайте себя опасности, входя в эти пещеры в одиночку!
+По сообщениям, он скрывается в вентиляционных шахтах гостиничного блока!
+По-видимому, его в последний раз видели бегущим в тоннели термоядерного реактора.
+По-видимому, его видели на уровне технического обслуживания, где когда-то была Главная улица.
 ☧!
-He is armed with a club!
-He is reportedly attacking passersby with a sword!
-Last he has been heard of, friends mentioned him trying to explore the sewers.
+Он вооружён дубинкой!
+По сообщениям, он нападает на прохожих с мечом!
+Последнее, что о нём слышали, друзья упоминали, что он пытался исследовать канализацию.

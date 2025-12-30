@@ -1,26 +1,26 @@
-Halt! You violated the law. Public unrest, I will write you a ticket this time...
-Halt! You violated the law. Fleeing I see. You are under arrest sir!
-Stop you criminal scum! Hands up! You violated the law. Assaulting police officers, public unrest! You are under arrest, you have the right to remain silent!
-Halt! You instigated strange explosions with your strange vehicle?! What is this thing? You are under arrest sir!
-Sorry Officer (Pay 100$)
-Sorry Officer (Pay 200$)
-I can't pay the money! (Go to Jail)
-Fine! (Go to Jail)
-You will never get me! (Run)
+Стоять! Вы нарушили закон. Нарушение общественного порядка, на этот раз я выпишу вам штраф...
+Стоять! Вы нарушили закон. Вижу, пытаетесь бежать. Вы арестованы, сэр!
+Стой, преступная мразь! Руки вверх! Вы нарушили закон. Нападение на полицейских, нарушение общественного порядка! Вы арестованы, вы имеете право хранить молчание!
+Стоять! Вы устроили странные взрывы своим странным транспортным средством?! Что это за штука? Вы арестованы, сэр!
+Простите, офицер (Заплатить 100$)
+Простите, офицер (Заплатить 200$)
+У меня нет денег! (В тюрьму)
+Ладно! (В тюрьму)
+Вы никогда меня не поймаете! (Бежать)
 ...
-My apologies (Pay 100 Shilling)
-My apologies (Pay 200 Shilling)
-Stop right there criminal scum! You violated the law. Assaulting guards, public unrest! You are under arrest!
-They always run...
-Days in total:
-Another day, another dollar for me!
-Wakey-Wakey Prisoner!
-Good Morning!
-Night is approaching! Everyone is to be in his cell by nightfall!
-Attention inmates! Back to your cells! Night is approaching!
-Capture that prisoner!
-Halt! You violated the law. Now because I want to be nice to you, I will let you go! Let this be a lesson to you!
-Won't happen again officer!
-My apologies (Pay 100 Thalers)
-My apologies (Pay 200 Thalers)
-Some men in hats came and intruced themselves as special agents. They took your car to their secret base. The car should still be visible on the world map.
+Мои извинения (Заплатить 100 шиллингов)
+Мои извинения (Заплатить 200 шиллингов)
+Стой, преступная мразь! Вы нарушили закон. Нападение на стражу, нарушение общественного порядка! Вы арестованы!
+Они всегда бегут...
+Всего дней:
+Ещё один день, ещё один доллар для меня!
+Пора-пора, заключённый!
+Доброе утро!
+Приближается ночь! Все должны быть в своих камерах с наступлением ночи!
+Внимание, заключённые! Назад в камеры! Приближается ночь!
+Задержать этого заключённого!
+Стоять! Вы нарушили закон. Теперь, потому что я хочу быть к вам добр, я вас отпущу! Пусть это будет вам уроком!
+Больше не повторится, офицер!
+Мои извинения (Заплатить 100 талеров)
+Мои извинения (Заплатить 200 талеров)
+Какие-то люди в шляпах пришли и представились специальными агентами. Они забрали вашу машину на свою секретную базу. Машина всё ещё должна быть видна на карте мира.

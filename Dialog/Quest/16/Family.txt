@@ -1,39 +1,39 @@
-(Weeping)
-(Stuttering) I want out.
-(Consoling the mother) Don't worry it... will be alright. He is strong. We will find him.
-Can I help?
-We lost our son. He went out to the woods and now he went missing. If you want to help I guess the old Edwin, on the other side of the forest knows more. The police questioned him already... I don't know if you will be able to find out more.
-(Weeping) Who... what was that?
-I don't know who or what that was.
-Thank you. I want home. Can you help me? I think I actually know this place. Please come with me I don't want to go alone.
-(Weeping) Can you follow me home?
-Alright lead on.
-Thank you!
-(Weeping) Quick, home isn't far...
-(Cheerful) Hello best friend!
-(Cheerful) You are always welcome!
-(Cheerful) Hey, would you like a freshly baked cookie?
-Yes please!
-(Places it on the counter) Here enjoy!
-(Cheerful) Hello!
-(Cheerful) You are always welcome!
-(Cheerful) Welcome!
+(Плачет)
+(Заикаясь) Я хочу выбраться отсюда.
+(Утешает мать) Не волнуйтесь... все будет хорошо. Он сильный. Мы найдем его.
+Могу я помочь?
+Мы потеряли нашего сына. Он ушел в лес и теперь пропал. Если хотите помочь, думаю, старый Эдвин, на другой стороне леса, знает больше. Полиция уже его допрашивала... Не знаю, сможете ли вы узнать что-то еще.
+(Плачет) Кто... что это было?
+Я не знаю, кто или что это было.
+Спасибо. Я хочу домой. Вы можете мне помочь? Кажется, я знаю это место. Пожалуйста, пойдемте со мной, я не хочу идти одна.
+(Плачет) Вы можете проводить меня домой?
+Хорошо, ведите.
+Спасибо!
+(Плачет) Быстрее, дом недалеко...
+(Радостно) Привет, лучший друг!
+(Радостно) Тебе всегда рады!
+(Радостно) Эй, хочешь свежеиспеченное печенье?
+Да, пожалуйста!
+(Кладет на прилавок) Вот, наслаждайся!
+(Радостно) Привет!
+(Радостно) Тебе всегда рады!
+(Радостно) Добро пожаловать!
 -----------------------------------
-Where can I learn more about this accordion man?
-Err... well. I suppose you can try it at the town archives of the courthouse in pine lake.
-I search the Accordion Man Case!
-What? Why? ... I think there was an old document somewhere around. Just get what you need and be on your way!
-Hey best friend!
-Hey. You are always welcome!
-Tom!
-Thank you! Thank you. You are always welcome here. Come home to us, please!
---BOSS HEALTH--
-THE ACCORDION MAN
-Crux Sacra Sit Mihi Lux!
-Non Draco Sit Mihi Dux!
-Vade Retro... Satana!
-Nunquam Suade Mihi Vana!
-Sunt Mala Quae Libas!
-Ipse Venena... Bibas!
-(GHASTLY WAIL)
-I need to sing the chant!
+Где я могу узнать больше об этом Человеке-гармошке?
+Э-э... ну. Полагаю, можно попробовать поискать в городском архиве здания суда в Пайн-Лейк.
+Я ищу Дело о Человеке-гармошке!
+Что? Почему?.. Думаю, где-то тут был старый документ. Просто возьмите, что вам нужно, и идите своей дорогой!
+Эй, лучший друг!
+Привет. Тебе всегда рады!
+Том!
+Спасибо! Спасибо. Тебе здесь всегда рады. Возвращайся домой к нам, пожалуйста!
+--ЗДОРОВЬЕ БОССА--
+ЧЕЛОВЕК-ГАРМОШКА
+Да будет мне крест священный светом!
+Не будет дракон мне господином!
+Отступи... Сатана!
+Никогда не советуй мне тщетного!
+Зло есть то, что ты подносишь!
+Сам испей... яда!
+(ЖУТКИЙ ВОПЛЬ)
+Мне нужно спеть заговор!

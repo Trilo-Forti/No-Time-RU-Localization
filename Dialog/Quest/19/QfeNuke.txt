@@ -1,5 +1,5 @@
-REACTOR HAS REACHED CRITICAL TEMPERATURE
-DETONATION IMINENT
+РЕАКТОР ДОСТИГ КРИТИЧЕСКОЙ ТЕМПЕРАТУРЫ
+ДЕТОНАЦИЯ НЕМИНУЕМА
 10
 9
 8
@@ -10,4 +10,4 @@ DETONATION IMINENT
 3
 2
 1
-Vile Native: GASH! GASH! ARRGHHH! MUSHBOOM!
+Мерзкий абориген: ГАШ! ГАШ! АРРРГХХХ! МУШБУМ!

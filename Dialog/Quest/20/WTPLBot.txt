@@ -1,15 +1,15 @@
-[Question] Are you unknown <unknown #4129>?
-I guess? I don't know...
-[Question] Have you been the cause [Direct || Indirect] of Incident #8512 <unauthorised usage of vehicle || explosives>?
-[Demand] The questioning is not finished, please procede <unknown #4129>
-This was err a neutral event!
-[Observation] You imply that Incident #8512 <unauthorised usage of vehicle || explosives> was your cause. [Question] What was the basis of this event? [Information] Any unauthorised actions may be evaluated as declarations of war to <Administrator P.E.N.>
-[Demand] The questioning is not finished, please procede <unknown #4129>
-It was a product of a harmless experiment!
-[Objection] <harmless experiment> does not cause <unauthorised usage of vehicle || explosives>.
-[Demand] The questioning is not finished, please procede <unknown #4129>
-Oh yes they do!
-[Question] Are you affiliated with Faction 2 <Pine Lake Center>?
-[Demand] The questioning is not finished, please procede <unknown #4129>.
-Err...
-[Error] I don't understand <ERR>.
+[Вопрос] Являетесь ли вы неизвестным <неизвестный #4129>?
+Полагаю? Не знаю...
+[Вопрос] Были ли вы причиной [Прямой || Косвенной] Инцидента #8512 <несанкционированное использование транспортного средства || взрывчатки>?
+[Требование] Допрос не окончен, просьба продолжить <неизвестный #4129>
+Это был, э-э, нейтральный случай!
+[Наблюдение] Вы подразумеваете, что Инцидент #8512 <несанкционированное использование транспортного средства || взрывчатки> был вашей причиной. [Вопрос] Какова была основа этого события? [Информация] Любые несанкционированные действия могут быть оценены как объявление войны <Администратору П.Е.Н.>
+[Требование] Допрос не окончен, просьба продолжить <неизвестный #4129>
+Это был продукт безобидного эксперимента!
+[Возражение] <безобидный эксперимент> не вызывает <несанкционированное использование транспортного средства || взрывчатки>.
+[Требование] Допрос не окончен, просьба продолжить <неизвестный #4129>
+О да, вызывают!
+[Вопрос] Связаны ли вы с Фракцией 2 <Центр Пайн-Лейк>?
+[Требование] Допрос не окончен, просьба продолжить <неизвестный #4129>.
+Э-э...
+[Ошибка] Я не понимаю <ОШИБКА>.

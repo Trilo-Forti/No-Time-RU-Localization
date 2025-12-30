@@ -1,108 +1,108 @@
-Hah! Hah... (Whispers) you made it... You made it! I guess that input date problem was only a small problem for you.
-Your younger self helped me out!
-(Whispers) Ah! I see, very smart. As you can see I am in quite a fix. You need to get me out of here!
-(Whispers) So...
-The time conduction circuit got fried.
-Well that is not good at all. (pauses in thought).
+Ха! Ха... (Шепотом) ты сделал это... Ты сделал это! Полагаю, проблема с вводом даты была для тебя лишь небольшой трудностью.
+Твой младший я помог мне!
+(Шепотом) Ах! Понятно, очень умно. Как видишь, я в довольно затруднительном положении. Тебе нужно вытащить меня отсюда!
+(Шепотом) Так...
+Схема временной проводимости перегорела.
+Ну, это совсем не хорошо. (пауза в раздумьях).
 ...
-I have been trying to get some of the technology from the agents. Well that is why I got caught in the first place. The agents portable machines do not function on the same hardware though. So retrieving them might not solve this issue. And we can't use them for time travel as their programming is completely ruined due to the virus!
-We need a new circuit.
-Mr. Crimsons Jet, maybe. You might search for their conduction circuit inside the wreck. It should be likely at the bridge. You need to get it, there is no other way. There is another thing I might need you in.
-Aye?
-These bars are pretty strong. You will have to break them open via some kind of tool. I left my gun at the friendly tribe, where the old forest is. I left it there because it would hinder me at being sneaky. (Pauses) well.
-So should I go to them?
-Yes, wait. Here take this an OLOOMOOLOO. It is a token of friendship to them.
-OLOOMOOLOO?
-Yes. It is a friendly greeting of sorts. I wear it because they gave it to me. I hope this will help you. Now wait.
-Yes?
-I don't think they will understand a word you say... I have devised plans for a translation unit. So I will give you the plans and you go and make this thing. Without the OLOOMOOLOO they won't talk, without the device you can't understand them. So you need both.
-Alright!
-Here are the plans. I saw a native guy mess around with my MR.Crafty up at one of the campfires here around. I am sure you might be able to salvage any parts to craft the translator, out of the time jet. Watch out though the reactor might have gotten unstable due to the crash. After you manage that, try to get my laser back! (pauses then whisperes) And then go straight back to me.
-Weren't the agents dialed to the future?
-They were! But the date was not computable... as expected... It was worth a shot. The future would have been the safest date, thinking that they would likely change the distant past drastically.
-How do I use the translation device.
-Just have it in your invetory or hold it while you are talking to them. If my calculations are correct the lingual stream would correct the grammatical strings into the right consonants and vowels.
-Where is Crimson?
-Oh? Down there in the other cage. I think you wont get a healthy conversation out of him. Just leave him to his own spoils.
-(Whispers) Quick, Come closer!
-(Whispers) So... you need to switch the laser from SAFE, to LETHAL. So it can cut through these bars. We need to hurry.
-Alright! Ehr how.
-Just press...(pauses) Watch out! Behind you!
-(Whispers) Look out!
-They discovered you! Just turn on the laser and defend yourself!
-Alright!
-Look out! I err the laser DOES NOT activate!
-Why can't that Laser just work! Stupid Transistor!
-Ahaa!! GOT IT!! Oh...
---BOSS HEALTH--
-PLATYPUS BOSS
-Watch out!
+Я пытался добыть немного технологий у агентов. Ну, поэтому меня и поймали в первую очередь. Однако портативные машины агентов работают на другом оборудовании. Так что их извлечение может не решить эту проблему. И мы не можем использовать их для путешествий во времени, так как их программирование полностью нарушено из-за вируса!
+Нам нужна новая схема.
+Реактивный самолет мистера Кримсона, возможно. Ты мог бы поискать их схему проводимости внутри обломков. Она, скорее всего, на мостике. Тебе нужно достать ее, другого выхода нет. Есть еще кое-что, в чем ты мне можешь понадобиться.
+Да?
+Эти прутья довольно крепкие. Тебе придется вскрыть их каким-нибудь инструментом. Я оставил свой пистолет у дружественного племени, там, где старый лес. Я оставил его там, потому что он мешал бы мне при скрытности. (Пауза) ну.
+Так мне идти к ним?
+Да, подожди. Вот, возьми это — ОЛУМУЛУ. Это знак дружбы для них.
+ОЛУМУЛУ?
+Да. Это что-то вроде дружеского приветствия. Я ношу его, потому что они мне его дали. Надеюсь, это поможет тебе. Теперь подожди.
+Да?
+Не думаю, что они поймут ни слова из того, что ты скажешь... Я разработал планы для переводческого устройства. Так что я дам тебе чертежи, и ты пойдешь и сделаешь эту штуку. Без ОЛУМУЛУ они не станут разговаривать, без устройства ты не сможешь их понять. Так что нужно и то, и другое.
+Хорошо!
+Вот чертежи. Я видел, как один абориген возился с моим Мистером Крафти у одного из костров здесь поблизости. Уверен, ты сможешь извлечь любые детали для создания переводчика из реактивного истребителя времени. Но осторожно, реактор мог стать нестабильным из-за аварии. После того как справишься с этим, попробуй забрать мой лазер обратно! (пауза, затем шепчет) А потом сразу возвращайся ко мне.
+Разве агенты не были настроены на будущее?
+Да! Но дата не поддавалась вычислению... как и ожидалось... Это стоило попытки. Будущее было бы самой безопасной датой, если подумать, что они, вероятно, кардинально изменят далекое прошлое.
+Как использовать устройство перевода?
+Просто держи его в инвентаре или в руках, когда разговариваешь с ними. Если мои расчеты верны, лингвистический поток скорректирует грамматические цепочки в правильные согласные и гласные.
+Где Кримсон?
+О? Внизу, в другой клетке. Думаю, здорового разговора из него не вытянешь. Просто оставь его наедине с его же злодеяниями.
+(Шепотом) Быстрее, подойди ближе!
+(Шепотом) Так... тебе нужно переключить лазер с БЕЗОПАСНОГО режима на СМЕРТЕЛЬНЫЙ. Чтобы он мог прорезать эти прутья. Нам нужно торопиться.
+Хорошо! Э-э, как.
+Просто нажми... (пауза) Осторожно! Позади!
+(Шепотом) Берегись!
+Они обнаружили тебя! Просто включи лазер и защищайся!
+Хорошо!
+Берегись! Я, э-э, лазер НЕ активируется!
+Почему этот лазер просто не работает! Тупой транзистор!
+Агаа!! ПОЛУЧИЛОСЬ!! Ох...
+--ЗДОРОВЬЕ БОССА--
+БОСС УТКОНОС
+Берегись!
 ...
-I don't know what just happened.
-...Anyway, follow me! There is no time!
-Ready?
-Lead on!
-I will cut through these gates with the laser.
-The time travel stuff from the agents has to be somewhere up there. We cannot leave it here.
-I will go get it then.
-Alright. Meanwhile I will keep watch. Come back safe.
-Can I have the gun?
-(Sighs) Alright. But don't loose it.
-Ah. Give me that bag please!
-I will take care of it... and properly dispose it.
-I will properly dispose it. Ah can you give me back my laser gun?
-Can I have my gun back?
-Thanks!
-All right!
-Let us get going.
-Get the car and meet me back at the tribal city, in the old forest. Where my shack is. I need to take with me the other stuff I left behind.
-Will you make it safe?
-No worries. I have the laser.
-All ready?
-Yep.
-Well in that case where is the car?
-Yes it is here.
-Well all we would need now is a time conduction chip, crimsons jet definitely has to have one... Get back to me in case you find anything inside it.
-Well all we would need now is a time input chip from crimsons jet! Do you have it? Show it!
-Excellent!
+Я не знаю, что только что произошло.
+...В любом случае, следуй за мной! Нет времени!
+Готов?
+Веди!
+Я прорежу эти ворота лазером.
+Штуки для путешествий во времени от агентов должны быть где-то там наверху. Мы не можем оставить их здесь.
+Тогда я пойду возьму их.
+Хорошо. А тем временем я буду стоять на страже. Возвращайся целым.
+Можно пистолет?
+(Вздох) Ладно. Но только не потеряй.
+Ах. Дай мне эту сумку, пожалуйста!
+Я позабочусь о ней... и должным образом утилизирую.
+Я должным образом утилизирую ее. Ах, можешь вернуть мне мой лазерный пистолет?
+Можно мой пистолет обратно?
+Спасибо!
+Отлично!
+Пойдем.
+Забирай машину и встречайся со мной обратно в племенном городе, в старом лесу. Где моя хижина. Мне нужно забрать с собой другие вещи, которые я оставил.
+Ты доберешься благополучно?
+Не волнуйся. У меня есть лазер.
+Все готово?
+Ага.
+Ну, в таком случае, где машина?
+Да, вот она.
+Ну, теперь нам понадобится только чип временной проводимости, в реактивном истребителе Кримсона он точно должен быть... Возвращайся ко мне, если найдешь что-нибудь внутри.
+Ну, теперь нам понадобится только чип ввода времени из реактивного истребителя Кримсона! Он у тебя есть? Покажи!
+Превосходно!
 ------------------
-Now that this is out of the way.
-You seem to learn languages fast.
-Well... I simply use the tools given to me. So, is everything set up? Do you need any energy cells? I have some left.
-Need energy cells?
-I am fine, but thank you.
-Well! Alright. Is everything ready?
-Got fusion cells?
-Alright! Here... Now, is everything ready?
-Got any uranium?
-Alright! Here... Now, is everything ready?
-Ready?
-Ready!
-Let's head straight to
- back home!
-Let's go back home!
-Something about the future is different.
-What is different?
-Oooh. argh just err land at the Pine Lake Square!
-Oooh. argh just err stop by the Pine Lake Square!
-Voilla. finished! We are ready!
-Ohh they hit my head.
-(Shouts) Argh! My head.
- (Good bye, headman, friend)
-Gadanah Flokomoko Headmanu.
- (Bye, friend)
-Bai Flokomoko!
-Alrighty! Can't wait to be back home again!
-Alright follow me!
-Where are all the natives all of the sudden?
-Look out! There are more coming!
-Quick give me the Laser! I will manage it.
-Thanks! Oh Watch out!
+Теперь, когда с этим покончено.
+Ты, кажется, быстро учишь языки.
+Ну... Я просто использую предоставленные мне инструменты. Итак, все настроено? Нужны ли тебе энергоэлементы? У меня есть несколько оставшихся.
+Нужны энергоэлементы?
+У меня все в порядке, но спасибо.
+Что ж! Ладно. Все готово?
+Есть термоядерные элементы?
+Хорошо! Вот... Теперь, все готово?
+Есть уран?
+Хорошо! Вот... Теперь, все готово?
+Готов?
+Готов!
+Давай направимся
+домой!
+Поехали домой!
+Что-то в будущем другое.
+Что другое?
+Ооох. Аргх, просто, э-э, приземлись на площади Пайн-Лейк!
+Ооох. Аргх, просто, э-э, остановись на площади Пайн-Лейк!
+Воуля. Готово! Мы готовы!
+Ох, они ударили меня по голове.
+(Кричит) Аргх! Моя голова.
+ (Прощай, вождь, друг)
+Гадана Флокомоко Хэдмэн.
+ (Пока, друг)
+Бай Флокомоко!
+Ладно! Не могу дождаться, чтобы снова оказаться дома!
+Хорошо, следуй за мной!
+Куда все аборигены вдруг подевались?
+Берегись! Их еще больше идет!
+Быстрее, дай мне лазер! Я справлюсь.
+Спасибо! О, берегись!
 ...
-Ah you are awake..They got you, but I got the laser still!
-Did you hear that?
-Oh Boogers...
-A giant...
-Platypus!?
-Keep that thing away from me!
-Distract him away from me!
+Ах, ты очнулся.. Они тебя схватили, но у меня все еще есть лазер!
+Ты это слышал?
+Ох, черт...
+Гигантский...
+Утконос!?
+Держи эту штуку подальше от меня!
+Отвлеки его от меня!

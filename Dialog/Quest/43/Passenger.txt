@@ -1,33 +1,33 @@
-Ey Taxi!
-Taxi!!!
-HEY TAXI!
-Can you get me to
-Can you fly me to
-please?
+Эй, такси!
+Такси!!!
+ЭЙ, ТАКСИ!
+Можешь отвезти меня в
+Можешь отвезти меня в
+пожалуйста?
 ?
-Cape Dun
-Byroad
-Fisherbay
-Fiskerbutka
-Bridge Town
-Pine Lake
-Level 1: Pine City Bank
-Level 2: Pine City Courthouse
-Level 2: Pine City Church
-Level 3: Pine City Skypark
-Level 3: Pine City Aquapark
-Level 0: Pine Cities Aqueducts
-Level 0: Fields
-You're fast man! Take my money!
-Thanks, here we are!
-Thanks...
-Well at least we got here.
-I am not paying you!
-Please just let me out of here! Do you even know how to fly?
-Watch it!
-AARGH!
-Merchant District
-North District
-Star Gazer Palace
-Star Port
-New havens
+Кейп-Данн
+Байроуд
+Фишербей
+Фискербутка
+Бридж-Таун
+Пайн-Лейк
+Уровень 1: Банк Пайн-Сити
+Уровень 2: Здание суда Пайн-Сити
+Уровень 2: Церковь Пайн-Сити
+Уровень 3: Небесный парк Пайн-Сити
+Уровень 3: Аквапарк Пайн-Сити
+Уровень 0: Акведуки Пайн-Сити
+Уровень 0: Поля
+Ты быстрый, мужик! Забирай мои деньги!
+Спасибо, вот мы и приехали!
+Спасибо...
+Ну, по крайней мере, мы добрались.
+Я тебе не заплачу!
+Пожалуйста, просто выпусти меня отсюда! Ты вообще умеешь летать?
+Смотри куда летишь!
+АААРГХ!
+Торговый район
+Северный район
+Дворец Звездочёта
+Звёздный порт
+Новые Гавани

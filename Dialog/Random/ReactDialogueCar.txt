@@ -1,8 +1,8 @@
-Is that a [!C$CarTitleC$]?!
-Nice machine you got there.
-What are these contraptions on it?!
-Nice Car...
-A flying [!C$CarTitleC$]?!
-That thing flies, what am I looking at?!
-Interesting...
-Woooow!
+Это что, [!C$CarTitleC$]?!
+Хороший аппарат у тебя.
+Что это за приспособления на нём?!
+Хорошая Тачка...
+Летающая [!C$CarTitleC$]?!
+Эта штука летает, на что я смотрю?!
+Интересно...
+Уууууу!

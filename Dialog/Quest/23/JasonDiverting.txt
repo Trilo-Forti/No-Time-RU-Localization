@@ -1,21 +1,21 @@
------ MOUSE BUTTONS----
-Right Mouse Button
-Left Mouse Button
-Aye no problem (Activate, hold [
-] and release to throw).
-I have this. It is an EMP device. Use it only in case of us encountering many of these robotic things!
-Thank you.
-Hurry. Michael needs you now!
-We need to get back to the CORE, Edward is waiting. I will meet you up on the towns reactor, right above us, land on it with your car. We will need to take it too, so he said.
-What is he up to?
-He did not want to specify. But he mentioned that Leader is approaching with his fleet. We are blowing the CORE.
-We need to get back to the CORE, Edward is waiting. I will meet you up on the towns reactor, right above us, land on it with your car. We will need to take it too, so he said.
-Then let us move on.
-(Turns away) Michael you need to evacuate the town. We need to move east now!
-Where is the car?
-We will land at the bunker exit. Where that elevator leads out!
-Land on that platform!
-Let's get out when you're ready.
-Good bye man. I don't know if we will see each other in the future, but stay safe you two!
-You too buddy!
+----- КНОПКИ МЫШИ----
+Правая кнопка мыши
+Левая кнопка мыши
+Ага, без проблем (Активировать, удерживать [
+] и отпустить, чтобы бросить).
+У меня есть это. Это ЭМИ-устройство. Используй его только в случае, если мы столкнемся со множеством этих роботизированных штук!
+Спасибо.
+Поторопись. Майкл нуждается в тебе сейчас!
+Нам нужно вернуться к ЯДРУ, Эдвард ждет. Я встречу тебя на городском реакторе, прямо над нами, приземлись на него на своей машине. Он сказал, она нам тоже понадобится.
+Что он задумал?
+Он не хотел уточнять. Но он упомянул, что Лидер приближается со своим флотом. Мы взрываем ЯДРО.
+Нам нужно вернуться к ЯДРУ, Эдвард ждет. Я встречу тебя на городском реакторе, прямо над нами, приземлись на него на своей машине. Он сказал, она нам тоже понадобится.
+Тогда давай двигаться дальше.
+(Отворачивается) Майкл, тебе нужно эвакуировать город. Нам нужно двигаться на восток сейчас!
+Где машина?
+Мы приземлимся у выхода из бункера. Где тот лифт выходит наружу!
+Приземлись на ту платформу!
+Давай выйдем, когда будешь готов.
+Прощай, чувак. Не знаю, увидимся ли мы в будущем, но оставайтесь в безопасности, вы двое!
+И ты тоже, приятель!
 ...

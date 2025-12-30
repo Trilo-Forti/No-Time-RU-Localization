@@ -1,15 +1,15 @@
-Welcome to the Pine City Training Academy, want to pick up a fight?
-Tell me about the fights.
-You can train here with non lethal weaponry against opponents. The higher the score the bigger the prize you win. You can chose between melee, ranged or mixed fighting styles.
-I want to fight ranged.
-I want fight melee.
-Let's fight with random weaponry.
-Good, enter the blue door to my left to enter the ring. You can only enter after you dropped your belongings on the table next to it. I will watch out for them no worries.
-You need to drop all your belongings first, here on the table. Don't worry I will take care of them!
-Enemies Beaten:
-Enemies Left:
-Huh, you got out pretty quick! Haha. Don't worry it happens to the best of us. Wanna try again?
-Not bad. Here is your prize for beating a score of
-Your fighting style is incredible. I see you are experienced! Here is your prize for beating a score of
-of your fighting opponents! Nice eh?
-You won the entire round! It's been quite some time since I've seen the likes of you fighting the competition! Here is your winners prize!
+Добро пожаловать в Тренировочную Академию Пайн-Сити, хочешь подраться?
+Расскажи о боях.
+Ты можешь тренироваться здесь с нелетальным оружием против противников. Чем выше счёт, тем больше приз, который ты выиграешь. Ты можешь выбрать ближний, дальний или смешанный стиль боя.
+Я хочу сражаться в дальнем бою.
+Я хочу сражаться в ближнем бою.
+Давай сражаться со случайным оружием.
+Хорошо, войди в синюю дверь слева от меня, чтобы попасть на ринг. Ты можешь войти только после того, как оставишь свои вещи на столе рядом. Я присмотрю за ними, не волнуйся.
+Тебе нужно сначала оставить все свои вещи, вот, на столе. Не волнуйся, я присмотрю за ними!
+Врагов побеждено:
+Врагов осталось:
+Хм, ты довольно быстро вышел! Ха-ха. Не волнуйся, такое случается с лучшими из нас. Хочешь попробовать снова?
+Неплохо. Вот твой приз за победу над счётом в
+Твой стиль боя невероятен. Вижу, ты опытный! Вот твой приз за победу над счётом в
+твоих боевых противников! Здорово, а?
+Ты выиграл весь раунд! Давно я не видел таких, как ты, сражающихся на этом состязании! Вот твой приз победителя!

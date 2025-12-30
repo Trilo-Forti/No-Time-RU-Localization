@@ -1,6 +1,6 @@
-Activating SEEKER MODE!
-SEARCHING FOR ENEMIES
+Активация РЕЖИМА СЛЕЖКИ!
+ПОИСК ВРАГОВ
 3
 2
 1
-NO ENEMIES END OF FUNCTION
+ВРАГОВ НЕТ КОНЕЦ ФУНКЦИИ

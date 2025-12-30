@@ -1,12 +1,12 @@
-Halt!
-Some big ruffians will assault the cave in a bit!
-(Yells) Guards! We got company, SECURE THE CAVE! Citizen get ready for a fight!
-These hillmen alerted us of incoming giants my lord!
-(Drunk) Woo... wait I wanna hear it (Sits down in front of your door).
-YEAH!
-(Attempt to pick the key)
-(Dozes) Mhmmem... Noodles...
-(Attempt to pick the key again)
-(You got the key)
-(Sleeping)
-(Snoring)
+Стой!
+Какие-то большие громилы вот-вот нападут на пещеру!
+(Кричит) Стража! У нас гости, ЗАЩИТИТЕ ПЕЩЕРУ! Гражданин, готовься к бою!
+Эти горцы предупредили нас о приближении великанов, мой господин!
+(Пьяный) Уу... погоди, я хочу послушать (садится перед твоей дверью).
+ДА!
+(Попытка подобрать ключ)
+(Дремлет) Мхммем... Лапша...
+(Попытка снова подобрать ключ)
+(Ты достал ключ)
+(Спит)
+(Храпит)

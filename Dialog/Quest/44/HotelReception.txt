@@ -1,12 +1,12 @@
-I'd like to rent a room. (50 $)
-I'd like to rent a room. (50 Shillings)
-Ghadanka Shlepn Lushk! (50 Ancient Coins)
-I'd like to rent a room. (50 ☧)
-Head upstairs, last room at the corridor. Have a nice stay here in the floating log!
-Head upstairs, we got only one room so it will be hard to miss. Enjoy your stay!
-Head upstairs, down the corridor. Enjoy your stay here in Bridge Town.
-Head down the corridor, second room. Enjoy your stay in Pine City!
-Head upstairs through the green door. First room on the right, enjoy your stay!
-Head upstairs, last room at the corridor. Have a nice stay here in the floating log, in spite of these strange days!
-Head upstairs, last room at the corridor. Have a nice stay here in the floating log!
-[Answer] Head to the elevator, top floor is all yours! Enjoy your stay mister!
+Я хотел бы снять номер. (50 $)
+Я хотел бы снять номер. (50 шиллингов)
+Гаданка Шлепн Лущк! (50 древних монет)
+Я хотел бы снять номер. (50 ☧)
+Наверх, последняя комната в коридоре. Приятного пребывания здесь в Плавучем Брёвнышке!
+Наверх, у нас всего одна комната, так что не пропустите. Наслаждайтесь пребыванием!
+Наверх, по коридору. Наслаждайтесь пребыванием здесь, в Бридж-Тауне.
+По коридору, вторая комната. Наслаждайтесь пребыванием в Пайн-Сити!
+Наверх через зелёную дверь. Первая комната справа, приятного пребывания!
+Наверх, последняя комната в коридоре. Приятного пребывания здесь в Плавучем Брёвнышке, несмотря на эти странные дни!
+Наверх, последняя комната в коридоре. Приятного пребывания здесь в Плавучем Брёвнышке!
+[Ответ] Пройдите к лифту, верхний этаж весь ваш! Приятного пребывания, мистер!

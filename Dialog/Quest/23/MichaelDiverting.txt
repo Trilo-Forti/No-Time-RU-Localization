@@ -1,17 +1,17 @@
-The situation is dire. They are all around. Where is Jason and Edward? Did you shut down the CORE? Why is the AI still hostile? Weren't you supposed to stop them?
-We did. They stayed behind.
-That is great, but why are the robots attacking us then? I don't know how long we will hold on, at least the aerial units seem to be on our side.
-Why is the AI still hostile? Weren't you supposed to stop them?
-The AI sent forces in a last attempt.
-The people in the undercity are safe and we could evacuate them safely. However the AI must not reach the town center. If they blow the reactor, well then... (Sighs) We could hold the attack, maybe. We need to keep them away from the walls. Wait someone is coming...
-Let's wait to see what he will report.
-Good Luck!
-Michael sent you? Quick here are some EMP units, there are more of them located at substations along the road! Take them, try get close! Take out that tank! It must not reach the city walls!
-You made it! Excellent job my friend!
-What is the next objective?
-Their last wave is on their way! We need to be ready!
-We did it! The battle is over! We have some casualties! We need to tend the wounded!
-It is over, maybe...
-Maybe, maybe not yet. I received a message from Jason some time ago, he should be here any minute! Just wait.
-We will move out fast. Good luck to you!
-We made it!
+Ситуация тяжелая. Они повсюду. Где Джейсон и Эдвард? Ты отключил ЯДРО? Почему ИИ все еще враждебен? Разве вы не должны были их остановить?
+Мы это сделали. Они остались позади.
+Это прекрасно, но почему тогда роботы атакуют нас? Не знаю, как долго мы продержимся, по крайней мере, воздушные юниты, кажется, на нашей стороне.
+Почему ИИ все еще враждебен? Разве вы не должны были их остановить?
+ИИ послал силы в последней попытке.
+Люди в Подгороде в безопасности, и нам удалось их безопасно эвакуировать. Однако ИИ не должен достичь городского центра. Если они взорвут реактор, ну тогда... (Вздыхает) Мы могли бы сдержать атаку, возможно. Нам нужно не пускать их к стенам. Погоди, кто-то идет...
+Подождем, что он доложит.
+Удачи!
+Майкл послал тебя? Быстрее, вот несколько ЭМИ-устройств, есть еще у подстанций вдоль дороги! Бери их, попробуй подобраться поближе! Выведи из строя тот танк! Он не должен достичь городских стен!
+Ты сделал это! Отличная работа, мой друг!
+Какова следующая цель?
+Их последняя волна уже в пути! Нам нужно быть готовыми!
+Мы сделали это! Битва окончена! У нас есть потери! Нужно оказать помощь раненым!
+Все кончено, может быть...
+Может быть, а может, и еще нет. Некоторое время назад я получил сообщение от Джейсона, он должен быть здесь с минуты на минуту! Просто подожди.
+Мы двинемся быстро. Удачи вам!
+Мы справились!

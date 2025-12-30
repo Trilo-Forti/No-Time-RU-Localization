@@ -1,30 +1,30 @@
-(Shovels coal)
-Luke!
-(Grave) He got you too?
-What are you doing here?
-(Sighs) Must be two years now, since Ms. Eleanor was taken... Me too.
-Where is Ms. Eleanor?
-(Pauses) ... (Grave) I think she's gone man.
-... What?
-She is gone!
-... I'm sorry.
-... There is no way out. All hope is lost.
-(Pause) What are you shoveling?
-Shoveling coal for the heating system, which heats Mîms bathtub.
-Isn't this place here volcanic?
-I don't know man, he's bat guano crazy! (Sighs) Do you know anything about the outside? All I remember is that I woke up here.
-We're currently on an exo planet in space.
-(Scoffs) Yeah sure... Nevermind my question then. Get used to your cell, there's no way out. It's impossible to escape.
-Nothing is impossible!
-You're optimistic, I lost that ability long ago.
+(Сгребает уголь)
+Люк!
+(Мрачно) Он и тебя взял?
+Что ты здесь делаешь?
+(Вздыхает) Уже года два, как мисс Элеанор увели... Меня тоже.
+Где мисс Элеанор?
+(Пауза) ... (Мрачно) Думаю, её нет, мужик.
+... Что?
+Её нет!
+... Мне жаль.
+... Отсюда нет выхода. Вся надежда потеряна.
+(Пауза) Что ты сгребаешь?
+Сгребаю уголь для системы отопления, которая греет ванну Мима.
+Разве это место не вулканическое?
+Не знаю, мужик, он спятил на летучей мыши! (Вздыхает) Ты что-нибудь знаешь о внешнем мире? Всё, что я помню, это то, что я проснулся здесь.
+Мы сейчас на экзопланете в космосе.
+(Усмехается) Да, конечно... Ладно, забудь мой вопрос тогда. Привыкай к своей камере, выхода нет. Сбежать невозможно.
+Нет ничего невозможного!
+Ты оптимист, я потерял эту способность давно.
 ...
-(Warning) No talking, need to keep working! Look busy!
-Quiet... 
-Can you give me any info on my surroundings?
-(Whispers) There are four cells which are connected to one corridor to your right. One of robots is patroling. He will sound the alarm if you are missing in the cell, or if he spots you elsewhere. My last escape attempt lead me through the air ducts to a control room. From there you should be able to disable the guard and doors. But again, if the guard spots you, the whole base will be after you.
-Any idea on getting out of here?
-(Whispers) If you were quick enough you could unhinge the air duct seal. It is electrically charged to prevent you from punching it through. Unless you have something made of rubber you are out of luck.
-Any way of taking on that robot?
-(Whispers) You got a window of about 30 seconds before the robot notices a lacking heat signature in your room and alerts the whole base! I'd tell you to hurry and disable that robot from the control room computer!
-I can't believe it, you actually did the impossible! How?! 
-The door next to the coal oven should be open, it will lead us to his master bedroom! There we can unlock the rest of the base.
+(Предупреждение) Не разговаривать, нужно продолжать работать! Делай вид, что занят!
+Тихо...
+Можешь дать какую-нибудь информацию об окружении?
+(Шёпотом) Есть четыре камеры, которые соединены одним коридором справа от тебя. Один из роботов патрулирует. Он поднимет тревогу, если тебя не будет в камере, или если заметит тебя в другом месте. Моя последняя попытка побега привела меня через вентиляционные шахты в диспетчерскую. Оттуда ты сможешь отключить охрану и двери. Но опять же, если охранник заметит тебя, вся база будет за тобой.
+Есть идеи, как выбраться отсюда?
+(Шёпотом) Если бы ты был достаточно быстрым, ты мог бы сорвать пломбу вентиляционной шахты. Она находится под напряжением, чтобы помешать тебе пробить её. Если только у тебя нет чего-то резинового, тебе не повезло.
+Есть ли способ справиться с тем роботом?
+(Шёпотом) У тебя есть окно около 30 секунд, прежде чем робот заметит отсутствие тепловой сигнатуры в твоей комнате и поднимет тревогу на всей базе! Я бы посоветовал тебе поторопиться и отключить того робота с компьютера в диспетчерской!
+Не могу поверить, ты действительно сделал невозможное! Как?!
+Дверь рядом с угольной печью должна быть открыта, она приведёт нас в его гостиную! Там мы сможем разблокировать остальную часть базы.

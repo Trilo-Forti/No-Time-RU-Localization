@@ -1,12 +1,12 @@
-Welcome to the annual PINE CITY RACE. Do you want to sign up?
-I'm up for it!
-Alright just set your car at the start line. The race begins at 7:30 Sharp! If you win first place, come back to me to receive your special prize! Good luck!
-Congratulations, you've made it to first place, here is your special price!
-Congrats! You made it, however you are not first place so you won't get the special price!
-Better luck next time champ!
-You were too far from the starting point!
-Disqualified!
-Loser!
-Winner!
-Winner 1st Place!
-Round
+Добро пожаловать на ежегодные ГОНКИ ПАЙН-СИТИ. Хочешь записаться?
+Я готов!
+Хорошо, просто поставь свою машину на стартовую линию. Гонка начинается ровно в 7:30! Если ты займёшь первое место, возвращайся ко мне, чтобы получить свой специальный приз! Удачи!
+Поздравляю, ты занял первое место, вот твой специальный приз!
+Поздравляю! Ты справился, однако ты не на первом месте, поэтому специального приза не получишь!
+Удачи в следующий раз, чемпион!
+Ты был слишком далеко от стартовой точки!
+Дисквалифицирован!
+Лузер!
+Победитель!
+Победитель, 1 место!
+Круг

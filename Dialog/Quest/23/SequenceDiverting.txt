@@ -1,213 +1,213 @@
-There it is! Just as you said it would...
-This is some kind of bunker... an entrance?
-The date is set 1989! Fly through the tunnel and accelerate to 70 miles per hour!
-Good bye Training Bot...
-I am starting the accelerator! Wait to see if the polarisers move. Then come back, let's get this thing going.
-Come on over!
-Hold on. Be there in a minute...
-Accelerator system is booting...
-Accelerator is active!
-Hold up!
-You made it! Get up here!
+Вот оно! Прямо так, как ты и говорил...
+Это какой-то бункер... вход?
+Дата установлена на 1989! Пролети через туннель и разгонись до 70 миль в час!
+Прощай, Тренировочный Бот...
+Я запускаю ускоритель! Подожди, пока поляризаторы сдвинутся. Затем возвращайся, давай запустим эту штуку.
+Подойди сюда!
+Держись. Буду через минуту...
+Система ускорителя загружается...
+Ускоритель активен!
+Подожди!
+Ты сделал это! Поднимайся сюда!
 -------------
-Guys!
-The great leader is approaching! For his treasure...
-We will have to go underground!
-We will blow the facility and the CORE. It is too dangerous! If they manage to capture it... Goodness knows...
-Aye.
-I will redirect the areal units, to hold them off. To buy you time to escape...
-Flee. You must move now! We will manage it!
-Ok... (Turns to you)
-Goodbye. I hope we will see each other again... Good Luck!
+Ребята!
+Великий лидер приближается! За своим сокровищем...
+Нам придется уйти под землю!
+Мы взорвем объект и ЯДРО. Это слишком опасно! Если им удастся захватить его... Боже упаси...
+Ага.
+Я перенаправлю воздушные юниты, чтобы задержать их. Чтобы выиграть вам время на побег...
+Бегите. Вы должны двигаться сейчас! Мы справимся!
+Окей... (Поворачивается к тебе)
+До свидания. Надеюсь, мы увидимся снова... Удачи!
 -------------
-Alright we are here!
-...I need to see the car now!
-...This ain't good at all!
+Хорошо, мы здесь!
+...Мне нужно посмотреть на машину сейчас!
+...Это совсем не хорошо!
 -------------
-Jason!
-We managed it Michael! (turns to you) But it is not over yet!
+Джейсон!
+Мы справились, Майкл! (поворачивается к тебе) Но еще не все кончено!
 -------------
-It is jason! The CORE has been disabled for good!
-(Shouts) Protect the citadel!
-(Shouts) Too many of them!
-(Shouts) The CORE, they shut down all robots!
+Это Джейсон! ЯДРО было окончательно отключено!
+(Кричит) Защитите цитадель!
+(Кричит) Их слишком много!
+(Кричит) ЯДРО, они отключили всех роботов!
 -------------
-Michael! Sir!
-They've sent an artillery tank! It is approaching from the south road!
-Then we need to move! We will manage it!
-(Turns to you) Quick move to the outpost at the southern road! Stop that tank! Speak with Hokori once there! He might have a plan!
-(Talks through comms) Alright, come to the city ASAP! ...It is Jason, we will talk about him later...
+Майкл! Сэр!
+Они послали артиллерийский танк! Он приближается с южной дороги!
+Тогда нам нужно действовать! Мы справимся!
+(Поворачивается к тебе) Быстро, переместись на аванпост на южной дороге! Останови тот танк! Поговори с Хокори, как окажешься там! У него может быть план!
+(Говорит по связи) Ладно, возвращайся в город как можно скорее! ...Это Джейсон, мы поговорим о нем позже...
 -------------
-[Exclamation] T-2 minutes...
-[Exclamation] T-1 minute...
-[Exclamation] T-10 seconds.
+[Восклицание] T-2 минуты...
+[Восклицание] T-1 минута...
+[Восклицание] T-10 секунд.
 -------------
-You did it!
-Jason can you check the entrance in case of any threats?
-Ah what ever...
-[Exclamation] Master! Edward. Reuel. Athor.
-(Blushes)... what?
-[Exclamation] I presumed you <Deceased>.
-How?
-[Answer] Administrator Crimson <Deceased> Proclaimed you dead. [Question] How may I serve?
-Deactivate all AI units roaming around. Deactivate them!
-[Question] Would you like to deactivate squadron 1#, squadron 2#, squadron 3#...
-... No all of them!
-Wow... what was that?
-They must have destroyed the weather machine!
-[Attention] I cannot order 58% of the defensive forces until their task is completed.
-What was that blast? I can't reach Michael! The comms are out.
-Training bot, err... What task did you give to the units?
-[Answer] Protect CORE <Me>; Terminate location #12 <Pine Lake Center>. 200 units have been deployed. 23% of the units have been sent to this location.
+Ты сделал это!
+Джейсон, можешь проверить вход на случай угроз?
+Ах, какая разница...
+[Восклицание] Мастер! Эдвард. Руэль. Атор.
+(Краснеет)... что?
+[Восклицание] Я предположил вас <Мертвым>.
+Как?
+[Ответ] Администратор Кримсон <Мертвый> Объявил вас мертвым. [Вопрос] Чем могу служить?
+Деактивируйте все блуждающие юниты ИИ. Отключите их!
+[Вопрос] Вы хотите деактивировать эскадрилью 1#, эскадрилью 2#, эскадрилью 3#...
+... Нет, все!
+Вау... что это было?
+Они, должно быть, уничтожили погодную машину!
+[Внимание] Я не могу отдать приказ 58% оборонительных сил до завершения их задачи.
+Что это был за взрыв? Я не могу связаться с Майклом! Связь прервана.
+Тренировочный бот, э-э... Какую задачу ты дал юнитам?
+[Ответ] Защищать ЯДРО <Меня>; Уничтожить локацию #12 <Центр Пайн-Лейк>. Было развернуто 200 юнитов. 23% юнитов отправлено на эту локацию.
 ...
-[Exposition]You have 3 Minutes till they encircle this location.
-We are trapped! Just as the agents before us!
-Is there no way you could help us?
-[Information] Processing... [Answer] There are 5 mobile turrets stored in a locker behind me;
-[Answer] The Magnetic Accelerator Tunnel, could deploy a lethal current, but the C units are not affectable.
-Why dont we just escape?
-Don't you get it, we are surrounded! Besides we can't just let them retake the CORE after all this!
-Let's move we got no time! Quick grab some turrets. They will be coming from every side.
-Prepare the turrets... man!
-They are going to be here soon... (Anxious).
-Take heed, these turrets only shoot what is in front of them!
-They are coming...
-There is too many of them!
-Jason! To the northern wing!
-Fall back! ... Fall back! To the tunnel!
-I think, we are winning!
-Yeah, we showed them!
-The elevator! Behind!
-(Talks through the comms) Hey Michael! We lost your connection!
-(Talks through the comms) Yes yes! We took the core... Alright on our way!
-(Turns to you) You need to hurry... Michael and the town is under attack. I will stay and take care of Edward first. Quick! Oh and stay safe!
-Use that elevator, it should lead right up! I will try to reason with that CORE.
+[Экспозиция]У вас есть 3 Минуты, пока они окружат эту локацию.
+Мы в ловушке! Как и агенты до нас!
+Разве ты не мог бы помочь нам?
+[Информация] Обработка... [Ответ] Позади меня в шкафчике хранятся 5 мобильных турелей;
+[Ответ] Туннель Магнитного Ускорителя мог бы создать летальный ток, но Юниты C не подвержены воздействию.
+Почему бы нам просто не сбежать?
+Разве ты не понимаешь, мы окружены! Кроме того, мы не можем просто позволить им снова захватить ЯДРО после всего этого!
+Двигаемся, у нас нет времени! Быстрее, хватай турели. Они будут идти со всех сторон.
+Подготовь турели... черт!
+Они скоро будут здесь... (Тревожно).
+Прими к сведению, эти турели стреляют только в то, что перед ними!
+Они идут...
+Их слишком много!
+Джейсон! В северное крыло!
+Отступайте! ... Отступайте! К туннелю!
+Думаю, мы побеждаем!
+Да, мы показали им!
+Лифт! Позади!
+(Говорит по связи) Эй, Майкл! Мы потеряли с тобой связь!
+(Говорит по связи) Да, да! Мы захватили ядро... Ладно, в пути!
+(Поворачивается к тебе) Тебе нужно торопиться... На Майкла и город напали. Я останусь и сначала позабочусь об Эдварде. Быстрее! О, и оставайся в безопасности!
+Воспользуйся тем лифтом, он должен вести прямо наверх! Я попробую договориться с этим ЯДРОМ.
 ---------------------------
-I am firing MY LASER! Maximum power!
-(Struggles) Turn on already! STUPID LASER!
-(Hurt) ARRGH!
-Edward!
-Edward! Hey!
-The laser must have emitted some kind of electromagnetic pulse!
-(sighs) My head.
-Hey man, we made it.
+Я стреляю из СВОЕГО ЛАЗЕРА! Максимальная мощность!
+(Напрягается) Включись уже! ТУПОЙ ЛАЗЕР!
+(Ранен) АРРРГХ!
+Эдвард!
+Эдвард! Эй!
+Лазер, должно быть, испустил какой-то электромагнитный импульс!
+(вздыхает) Моя голова.
+Эй, чувак, мы справились.
 ---------------------------
-Great! you made it again!
-Well! How do we procede now?
-We cannot storm in all at once, the CORE may have some tricks up its sleeve!
-One of us has to go then!
-(Smiles) Can you do it?
+Отлично! Ты снова это сделал!
+Ну! Как мы теперь поступим?
+Мы не можем штурмовать все сразу, у ЯДРА могут быть какие-то трюки в рукаве!
+Одному из нас придется пойти тогда!
+(Улыбается) Ты сможешь?
 ---------------------------
-So, this is the COR.. (Breaks off)
-Training... what?
-Is that my training bot? (Shocked) No What have they done?
+Так, это ЯД... (Обрывается)
+Тренировочный... что?
+Это мой тренировочный бот? (Шокирован) Нет, что они сделали?
 ...
-Tell me you didn't clean up our trap in 33 AD!?
-Did you?!
+Скажи, что ты не убрал нашу ловушку в 33 году нашей эры!?
+Ты сделал это?!
 ---------------------------
-What are you two talking about?
-What is that pencil doing on the ceiling?
-No administrator in sight... hmm.
-...must have been long dead, since.
-I get it... it is a PENCIL, see? Administrator P.E.N.?!
-Oh this is just, dumb.
-What did you expect from artificial intelligence? It's in the word ARTIFICIAL.
-AHH I know what is to be done next!
-Right! So we need to terminate the administrator, err pen.
-This way the CORE might recognize it as terminated and would not act further.
-Alright let's do it. But why not destroy the CORE itself?
-It may become useful, err later on.
-Let us go further down that path, it may lead to the entrance for this chamber!
+О чем вы двое говорите?
+Что этот карандаш делает на потолке?
+Администратора не видно... хм.
+...должно быть, давно мертв, с тех пор.
+Я понял... это КАРАНДАШ, видишь? Администратор П.Е.Н.?!
+О, это просто тупо.
+Что ты ожидал от искусственного интеллекта? Это в слове ИСКУССТВЕННЫЙ.
+ААА, я знаю, что нужно делать дальше!
+Верно! Значит, нам нужно устранить администратора, э-э, карандаш.
+Таким образом, ЯДРО может признать его устраненным и не будет действовать дальше.
+Хорошо, давай сделаем это. Но почему не уничтожить само ЯДРО?
+Оно может пригодиться, э-э, позже.
+Давайте пойдем дальше по этому пути, он может вести к входу в эту камеру!
 -----------------------------
-What, is it blocked?
-A dead end?
-No...
-Get behind me, I will cut through it!
-This is crazy, you just nearly killed us before with your crazy laser torch!
-I will take a safe distance as to not get melted.
-Nervous? Out of character, perhaps?
+Что, он заблокирован?
+Тупик?
+Нет...
+Встань позади меня, я прорежу его!
+Это безумие, ты чуть не убил нас раньше своим сумасшедшим лазерным резаком!
+Я отойду на безопасное расстояние, чтобы не расплавиться.
+Нервничаешь? Не в характере, возможно?
 ...
-Get behind!
-Well look at that!
-I will try to climb down.
-What is this place?
-(Whispers) I know this place reminds me of something, but...
-(Whispers) My first guess would be some kind of circular, magnetic field generator.
-(Whispers) Anyway, let me cut open our next exit.
-Hey, are you coming?
-Let's climb up...
-Alright we are clearly going somewhere.
-Let us find that CORE, and track down this administrator.
+Встань сзади!
+Ну, смотри-ка!
+Я попробую спуститься вниз.
+Что это за место?
+(Шепотом) Я знаю, это место напоминает мне что-то, но...
+(Шепотом) Моя первая догадка — что-то вроде циркулярного генератора магнитного поля.
+(Шепотом) В любом случае, позволь мне прорезать наш следующий выход.
+Эй, ты идешь?
+Давай поднимемся наверх...
+Хорошо, мы явно куда-то идем.
+Давай найдем это ЯДРО и выследим этого администратора.
 -----------------------------
 ...
-I guess this was an elevator... At some point.
-We go down.
-I go first, he goes second and you last.
-... This is insane, no one of mind would climb this way down.
-See it is simple. There is no other way. We came that far.
+Думаю, это был лифт... В какой-то момент.
+Мы спускаемся вниз.
+Я иду первым, он вторым, а ты последним.
+... Это безумие, никто в здравом уме не полез бы таким образом вниз.
+Видишь, это просто. Мы уже зашли так далеко.
 ...
-Just think about this, we are standing on ground, down there is also ground minus a small distance.
-(Turns to you) You go after him.
-What is it with you? Suddenly so out of character.
-Now you guys...
-Awesome, now move down slowly. Watch your hands... Don't let go.
-Come on now Edward!
+Просто подумай об этом, мы стоим на земле, внизу тоже земля минус небольшое расстояние.
+(Поворачивается к тебе) Ты идешь за ним.
+Что с тобой? Вдруг так не в характере.
+Теперь вы, ребята...
+Потрясающе, теперь двигайтесь медленно вниз. Следите за руками... Не отпускайте.
+Давай теперь, Эдвард!
 ----------------------------
-(Shaking but sturn) Lord help me...
-(Sturn) Who hath made heaven and earth!
-Let's get it moving!
-(Shaking) beáte Maríae semper Virgini, beáto Michaéli Archangelo!
-Did Michael teach you this?
-(Mumbles to himself, shaking)... Sanctis Apóstolis Petro et Páulo, ómnibus Sanctis.
-Et vobis, fratres.
-M, m m Mea Culpa!
-The rope!
-(Yells) Move faster!
-Mea maxima Culpaaaaaaaaaaaaaaaaaaaaaaaaaa!
-Aaaaaaaaaaa  ... Owww!
-Oww, my back. My Back!
-We... we made it! Hahaha!
-(Turns to you) Will you take the lead?
-Agents...
+(Дрожит, но твердо) Господи, помоги мне...
+(Твердо) Сотворившему небо и землю!
+Давай сдвинем его!
+(Дрожит) блаженной Марии Приснодеве, блаженному Михаилу Архангелу!
+Майкл научил тебя этому?
+(Бормочет себе, дрожа)... Святым Апостолам Петру и Павлу, всем Святым.
+И вам, братья.
+М, м м Моя Вина!
+Веревка!
+(Кричит) Двигайся быстрее!
+Моя величайшая Винаaaaaaaaaaaaaaaaaaaaaaaaaa!
+Aaaaaaaaaaa  ... Айии!
+Айии, моя спина. Моя Спина!
+Мы... мы сделали это! Хахаха!
+(Поворачивается к тебе) Ты возьмешь на себя инициативу?
+Агенты...
 ----------------------------------------
-The door is closed... Jason does the Robot know a way out?
-(Talks through com) Hey... it is me again... Does the robot know the interior data of the bunker?
-The CORE abandoned this segment all together as they use a different entrance.
-Weird that this robot head knew the essential password for the entrance to the bunker, but not information about the bunker itself.
-I guess this is it then. Hold on.. what are you (Breaks off).
-Stop it! Or you are going to cut us in half instead!
-This is not what I expected.
-(Sarcastic) Great.
-(Turns to you) Can we talk?
+Дверь закрыта... Джейсон, Робот знает выход?
+(Говорит по связи) Эй... это снова я... Робот знает внутренние данные бункера?
+ЯДРО покинуло этот сегмент полностью, так как они используют другой вход.
+Странно, что эта голова робота знала важный пароль для входа в бункер, но не информацию о самом бункере.
+Думаю, вот и все. Держись.. что ты (Обрывается).
+Прекрати это! Или ты разрежешь нас пополам вместо этого!
+Это не то, что я ожидал.
+(Саркастично) Отлично.
+(Поворачивается к тебе) Можем поговорить?
 ----------------------------------------
-Rrrright?
-Or left?
-------------- there is a space after least... keep it
-Dude...
-This stuff is at least 
- years old by now.
-This tastes pretty good.
-Eww!
-I have had worse.
-I once ventured into the sewers as a youngling. Then I stumbled, and fell!
-Ever drank sewer water?
-(Shakes his head in disbelief)
+Пррраво?
+Или налево?
+------------- там пробел после least... сохраните его
+Чувак...
+Этой штуке как минимум 
+ лет сейчас.
+На вкус довольно хорошо.
+Фу!
+Я пробовал и хуже.
+Я однажды проник в канализацию в юности. Затем споткнулся и упал!
+Ты когда-нибудь пил канализационную воду?
+(Качает головой с недоверием)
 -------------------------------
-Right it is.
-Nice goggles!
+Правильно, это так.
+Классные очки!
 -----------------------------
-A terminal!
-This place looks to be man made.
-It was constructed before the great cataclysm.
-Terminal: Enter Password...
-Hmm... err.
-(Exhausted) I don't know.
-I guess I better call up Michael.
-(Talks through com) Hey.
-Yeah we are having some problems.
-No a gate, that needs a password.
-I know we are not inside yet.
-(Sigh) Can't you just question the robot for a password?
-The pass is 2CanPie.
-Alright here we go.
-(Turns to you) After you!
+Терминал!
+Это место выглядит искусственным.
+Оно было построено до великой катастрофы.
+Терминал: Введите пароль...
+Хм... э-э.
+(Измученно) Я не знаю.
+Думаю, мне лучше позвонить Майклу.
+(Говорит по связи) Эй.
+Да, у нас проблемы.
+Нет, ворота, которым нужен пароль.
+Я знаю, мы еще не внутри.
+(Вздох) Не можешь просто спросить у робота пароль?
+Пароль 2CanPie.
+Хорошо, поехали.
+(Поворачивается к тебе) После тебя!

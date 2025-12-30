@@ -1,126 +1,126 @@
-(Looks through his goggles) That thing is vast...
-Whats my objective?
-See the two plasma turrets targeting our troops? We need to hack them! Use the SetFactionMimCore command! The port should be somewhere on the floor near the cannons.
-See the two plasma turrets targeting our troops? We need to hack them! EE-77 will go with you and hack em quick! The port should be somewhere on the floor near the cannons.
-Friends, take defensive positions!
-We need to move! ... Mîm is closing the bridge! Boogers!
-Whats the situation Edward! Are we safe to move?
-It looks okay, come on! Watch out!
-(Hides) Everyone alright? (Coughs) I thought you said it looks okay?!
-I said it LOOKS OKAY!
-...What does it look like now?
-(Shouts) Looks okay! (Runs) Come on! Move! Move!
-Boogers! We're cut off! Hmm the ravine must have connecting lines to the bridge connector on the other side! We need to climb down!
-I'll do it, hold the line!
-Use the closeperipheral command, look for an access point at the bottom! We will cover you from above! Use my grappling hook if you need it to come back up!
-Why not use jetpacks!
-Not all of us have em! Besides what about our backup? Do you want us to go onto the other side alone?
-The defensive grid is smashed! Move! 
-Turrets are down!
-Look!
-Mîm's space force is goin down! Haha!
-Open up that laser gate! See that big power conduit behind it? See if you can destroy it!
-Quick Mîm is powering up his timeline weapon!
-What's that!
-It's a BESTIAN Walker, a relic of the old future!
-What?
-Now for it! Wait for me guys!
-It is not destructible. I will draw it's attention the rest of you, into the tunnel!
-Edward, the gate is closing! Hurry!
-Lights on soldiers! Oh boogers...
-Watch out!
-Go! Go! That elevator in front leads the core! Elevator is in front! Quick! Don't wait!
-Mooove! Destroy the Core! Get to the top of this hall!
-Mîm is loading up his weapon again!
-Folks there is NO TIME to hack it, blow it up!
-Pyradome Central Core
-Good job buddy. You did it! Though you could have left the lights on! (Laughs) It is not over yet... follow me down the elevator shaft. Let's capture that bugger dwarf!
-Let's move.
-Follow me, I know the schematics.
-Follow me!
-This place was designed by machines for machines. No aesthetics, without even human basics as doorknobs and lights.
-If there is one thing I've learned by now, is that the bad guys never have a taste for architecture...
-All these machines were controlled by a kind of god. 
-A low-rent self-appointed god who calls himself Mîm.
-And now all his toys stopped...
-Err Edward!
-Those are just Mîm's spy bots. Perfect replicas of his ugly mug.
-What is this place?
-Guys do you here the rumbling noise beneath us? Doesn't sound good.
-Meta key seems to be inserted.
-Guys give me some data! Quick!
-Binary is being parsed and the logs are being decoded...
-Pine Lake, August 23rd 1971 at four in the morning.
-(Shouts) Crap!
-What's going on?
-(Angry) What?!
-It seems he anticipated losing this battle. Not good...
-Edward? Is everything alright?
-Mîm... being almost infinitely smart, was also so infinitely tricky. He knew he was losing, so he thought of a way to rig the game...
-Rig the game?
-We may have won the space wars... but there is one last battle left to fight. The most important one. The problem with time travel is, it ain't over even when it is.
-He will take you out as a youngling!
-That is, given he probably found out where I lived, someone will have to intercept him. The good thing about this machine is, it creates stable wormholes. So it ain't over yet. Even though he is in the past we can still change it due to both planes of time and space being currently connected.
-Aye we should hurry.
-I've never thought I would see this machine with my own eyes.
-What do you mean?
-This, this is giant machine we stand on is the very first, and original time machine. Well, a one to one exact replica of it.
-So Mîm was not lying?
-He did not invent it, I did! In something they, meaning him and others, call the Gold Timeline.
-Gold timeline.
-The original timeline of ours. 1971 was the year the agents arrived. And this date exactly two days after my adventure in the sewers... (Hears footsteps approaching).
-What. (Turns to the group)
-Who?
-Edward, there are rows of cell blocks. Come on, you got to see this!
-They are... they are in a time vacuum. Their time was slowed down so far, that it would take them months to move a muscle.
-Ms. Eleanor. Her cell block is empty I knew it! I should not have left her in DUUTU!
-Mîm likely took her with him, don't despair yet!
-I need to go after him!
-Patience, that ruffian is not to be played with. You will find her, we will! I promise!
-Ms. Eleanor is not here... We got to find her, we cannot come back without some good news for Luke!
-That's the detective!
-Detective!
-(Shocked) Edward... I... I failed. I tried to stop him, he outsmarted me. Wait you look different, where are your scars? Was the future, the Gold Timeline altered? Or is this just another nightmare?
-Hey you never called me by my first name! (Thinks) Wait you know about the Gold Timeline?
-(Looks at you and the rest) I see you keep the same company and friends around you, no matter the timeline. (Chuckles and becomes grave) I was not truthful with you about who I am. I am indeed from the same future, the other two agents came from.
-But you lied about being a detective from St. André?
-No... I was a detective, before the dark times. Before our islands would become The Boneyard.
+(Смотрит в бинокль) Эта штука огромна...
+Какая у меня задача?
+Видишь две плазменные турели, целящиеся в наши войска? Нам нужно их взломать! Используй команду SetFactionMimCore! Порт должен быть где-то на полу рядом с пушками.
+Видишь две плазменные турели, целящиеся в наши войска? Нам нужно их взломать! EE-77 пойдёт с тобой и взломает их быстро! Порт должен быть где-то на полу рядом с пушками.
+Друзья, займите оборонительные позиции!
+Нам нужно двигаться! ... Мим закрывает мост! Бугеры!
+Какова ситуация, Эдвард! Безопасно ли двигаться?
+Вроде всё в порядке, давай! Осторожно!
+(Прячется) Все в порядке? (Кашляет) Я думал, ты сказал, всё в порядке?!
+Я сказал, ВЫГЛЯДИТ ВСЁ В ПОРЯДКЕ!
+...Как оно выглядит сейчас?
+(Кричит) Выглядит в порядке! (Бежит) Давай! Вперёд! Вперёд!
+Бугеры! Мы отрезаны! Хмм, ущелье должно иметь соединительные линии с коннектором моста на другой стороне! Нам нужно спуститься вниз!
+Я сделаю это, держи линию!
+Используй команду closeperipheral, ищи точку доступа внизу! Мы прикроем тебя сверху! Используй мой крюк-кошку, если понадобится подняться обратно!
+Почему бы не использовать реактивные ранцы!
+Не у всех они есть! Кроме того, как насчёт нашего подкрепления? Ты хочешь, чтобы мы пошли на другую сторону в одиночку?
+Оборонная сеть уничтожена! Вперёд!
+Турели сбиты!
+Смотри!
+Космические силы Мима падают! Ха-ха!
+Открой эти лазерные ворота! Видишь тот большой силовой кабель за ними? Попробуй его уничтожить!
+Быстро, Мим заряжает своё оружие временной линии!
+Что это!
+Это ВЕСТИАНСКИЙ Уокер, реликт старого будущего!
+Что?
+Теперь за дело! Ждите меня, ребята!
+Он не разрушаем. Я отвлеку его внимание, а остальные — в туннель!
+Эдвард, ворота закрываются! Торопись!
+Включите свет, солдаты! О, бугеры...
+Осторожно!
+Вперёд! Вперёд! Тот лифт впереди ведёт к ядру! Лифт впереди! Быстро! Не ждите!
+Двииигайтесь! Уничтожьте Ядро! Доберитесь до верха этого зала!
+Мим снова заряжает своё оружие!
+Люди, ВРЕМЕНИ НЕТ, чтобы его взломать, взорвите его!
+Центральное Ядро Пирадома
+Хорошая работа, приятель. Ты сделал это! Хотя мог бы и свет оставить! (Смеётся) Это ещё не конец... следуй за мной вниз по шахте лифта. Давай поймаем этого жука-гнома!
+Двигаемся.
+Следуй за мной, я знаю схемы.
+Следуй за мной!
+Это место было спроектировано машинами для машин. Никакой эстетики, без даже человеческих основ вроде дверных ручек и света.
+Если я чему-то и научился к настоящему времени, так это тому, что у плохих парней никогда нет вкуса к архитектуре...
+Все эти машины контролировались своего рода богом.
+Богом-самозванцем низкого пошиба, который называет себя Мим.
+И теперь все его игрушки остановились...
+Эмм, Эдвард!
+Это просто шпионские боты Мима. Идеальные копии его уродливой морды.
+Что это за место?
+Ребята, вы слышите грохот под нами? Звучит не очень хорошо.
+Кажется, мета-ключ вставлен.
+Ребята, дайте мне данные! Быстро!
+Двоичный код разбирается, логи декодируются...
+Пайн-Лейк, 23 августа 1971 года, четыре часа утра.
+(Кричит) Чёрт!
+Что происходит?
+(Сердито) Что?!
+Похоже, он предвидел поражение в этой битве. Нехорошо...
+Эдвард? Всё в порядке?
+Мим... будучи почти бесконечно умным, был также бесконечно хитрым. Он знал, что проигрывает, поэтому придумал способ подстроить игру...
+Подстроить игру?
+Мы, возможно, выиграли звёздные войны... но осталась ещё одна последняя битва. Самая важная. Проблема с путешествиями во времени в том, что они не заканчиваются, даже когда закончены.
+Он убьёт тебя в детстве!
+То есть, учитывая, что он, вероятно, выяснил, где я жил, кто-то должен его перехватить. Хорошо в этой машине то, что она создаёт стабильные червоточины. Так что ещё не конец. Даже несмотря на то, что он в прошлом, мы всё ещё можем это изменить, поскольку оба плана времени и пространства в настоящее время соединены.
+Ага, нам стоит поторопиться.
+Я никогда не думал, что увижу эту машину собственными глазами.
+Что ты имеешь в виду?
+Эта гигантская машина, на которой мы стоим, — самая первая и оригинальная машина времени. Ну, точная копия один в один.
+Так Мим не лгал?
+Он её не изобрёл, это сделал я! В том, что они, то есть он и другие, называют Золотой Временной Линией.
+Золотая временная линия.
+Оригинальная временная линия наша. 1971 год — год прибытия агентов. И эта дата — ровно через два дня после моего приключения в канализации... (Слышит приближающиеся шаги).
+Что. (Поворачивается к группе)
+Кто?
+Эдвард, там ряды блоков камер. Давай, ты должен это увидеть!
+Они... они в временном вакууме. Их время было замедлено настолько, что им потребовались бы месяцы, чтобы пошевелить мускулом.
+Мисс Элеанор. Её блок камер пуст, я так и знал! Я не должен был оставлять её в ДУУТУ!
+Мим, вероятно, взял её с собой, не отчаивайся ещё!
+Мне нужно идти за ним!
+Терпение, с этим хулиганом не стоит играть. Ты найдёшь её, мы найдём! Обещаю!
+Мисс Элеанор нет здесь... Нам нужно найти её, мы не можем вернуться без хороших новостей для Люка!
+Это детектив!
+Детектив!
+(В шоке) Эдвард... я... я провалился. Я пытался остановить его, он перехитрил меня. Погоди, ты выглядишь иначе, где твои шрамы? Будущее, Золотая Временная Линия изменилась? Или это просто ещё один кошмар?
+Эй, ты никогда не называл меня по имени! (Думает) Погоди, ты знаешь о Золотой Временной Линии?
+(Смотрит на тебя и остальных) Вижу, ты держишь вокруг себя ту же компанию и друзей, независимо от временной линии. (Посмеивается и становится серьёзным) Я не был откровенен с тобой насчёт того, кто я. Я действительно из того же будущего, из которого пришли двое других агентов.
+Но ты солгал о том, что ты детектив из Сент-Андре?
+Нет... Я был детективом до тёмных времён. До того, как наши острова стали Кладбищем Кораблей.
 ...
-We had taken St. André, defeated Crimson. But he sent back two agents of his. One of them proved to be too smart even for me to handle.
-Well... actually we are currently in deep space. This place is a replica of the Crimson Pyradome in St. André.
-We are in space? What is this crazy dwarf with delusions of grandure up to now?
-We have him tracked down he escaped to into 1971, but don't worry the wormhole is still open so we can jump in!
-This is not good friends.
-I know, he may change the outcome by taking me out of the picture.
-No that is not only it.
-If he is using this time machine, it will be prone to creating something we call a temporal plane paradox... You explained it to me once. In that other future, back where I am from. If it is not closed on this side, then we are in a load of trouble!
-Something Mîm in his infinite intelligence, might have forgotten.
-Elaborate.
-If he changes the past, our future will not change, because it is still connected by this bridge. 
-A paradox occurs, one of major proportions. I cannot predict it's outcome and it is not good that space itself is implicated in this potential paradox. We have to avoid him doing anything major at all costs!
-And we cannot close the tunnel, lest the future gets overwritten, this is our only chance to mend it.
-Well seems, Mîms plan to blow up everything might just end up happening.
-Maybe that was his plan all along, the meta key was the key to all of this alright. Though it was not the weapon itself.
-Big billy. So that's what happened to you. Finally I tracked you down.
-Sewer Cats.
-(Stares)... you stay where you are!
-Crimson... I guess this explains why the raid on our lab in Pine Lake failed. Mîm captured Crimson and altered the timeline!
-Let's not waste any more time then quick!
-Alright I set the coordinates close to Edward's house. (Uncertain) Are you guys sure this will work?
-Is the atomic weight of cobalt 58.9?
-If I succeed, you should blow this place, just like you did originally with the Crimson's pyradome. That will complete the timeline.
-Let's hope it will end this time around.
-Mr. Detective... it has been an honor.
-No, the honor was mine.
-(Turns towards the massive chrome rings) Talk about déjà vu.
-Who was that?
-I, I don't know. I thought I knew, but not this. But we might in the future...
-So what now?
-The detective was sent back to intercept Mîm before he takes my younger self. But he will need backup! Mîm is not alone.
-Let's go then!
-(Laughs) You were always the more eager one of us two! Jump into the chrome rings! Don't worry, the artificial gravity will hold you in place!
-See you in the past Paul! Now God speed, there is NO TIME!
-(Motions to activate the machine)
-Please step back a tad buddy, stand next to the others.
-Watch out, this will be bright!
+Мы захватили Сент-Андре, победили Кримсона. Но он отправил обратно двух своих агентов. Один из них оказался слишком умным даже для меня.
+Ну... на самом деле мы сейчас в глубоком космосе. Это место — реплика Кримсон Пирадома в Сент-Андре.
+Мы в космосе? Что этот сумасшедший гном с манией величия теперь задумал?
+Мы выследили его, он сбежал в 1971 год, но не волнуйся, червоточина всё ещё открыта, так что мы можем прыгнуть туда!
+Это нехорошо, друзья.
+Я знаю, он может изменить исход, убрав меня со сцены.
+Нет, дело не только в этом.
+Если он использует эту машину времени, она будет склонна создавать нечто, что мы называем парадоксом временного плана... Ты объяснял мне это однажды. В том другом будущем, откуда я родом. Если она не закрыта с этой стороны, то у нас куча проблем!
+Что-то, о чём Мим в своей бесконечной интеллигентности, возможно, забыл.
+Подробнее.
+Если он изменит прошлое, наше будущее не изменится, потому что оно всё ещё соединено этим мостом.
+Возникает парадокс, огромных масштабов. Я не могу предсказать его исход, и это плохо, что само пространство вовлечено в этот потенциальный парадокс. Мы должны любой ценой избежать, чтобы он сделал что-либо серьёзное!
+И мы не можем закрыть туннель, иначе будущее будет перезаписано, это наш единственный шанс исправить всё.
+Ну, похоже, план Мима всё взорвать может как раз осуществиться.
+Может, это и был его план всё время, мета-ключ был ключом ко всему этому, да. Хотя он не был самим оружием.
+Большой Билли. Так вот что с тобой случилось. Наконец-то я тебя нашёл.
+Сточные коты.
+(Смотрит)... ты стой где стоишь!
+Кримсон... Полагаю, это объясняет, почему провалился рейд на нашу лабораторию в Пайн-Лейк. Мим захватил Кримсона и изменил временную линию!
+Давайте не будем терять больше времени тогда, быстро!
+Хорошо, я установил координаты близко к дому Эдварда. (Неуверенно) Вы, ребята, уверены, что это сработает?
+Атомный вес кобальта 58.9?
+Если я преуспею, вы должны взорвать это место, как вы и сделали изначально с пирадомом Кримсона. Это завершит временную линию.
+Будем надеяться, что на этот раз всё закончится.
+Мистер детектив... для меня было честью.
+Нет, честь была моей.
+(Поворачивается к массивным хромированным кольцам) Что за дежавю.
+Кто это был?
+Я, я не знаю. Я думал, что знаю, но не этого. Но, возможно, узнаем в будущем...
+Так что теперь?
+Детектив был отправлен назад, чтобы перехватить Мима до того, как он захватит моего младшего "я". Но ему понадобится подкрепление! Мим не один.
+Тогда пошли!
+(Смеётся) Ты всегда был более нетерпеливым из нас двоих! Прыгай в хромированные кольца! Не волнуйся, искусственная гравизация удержит тебя на месте!
+Увидимся в прошлом, Пол! И да поможет нам Бог, ВРЕМЕНИ НЕТ!
+(Движением активирует машину)
+Пожалуйста, отойди немного, приятель, встань рядом с остальными.
+Осторожно, будет ярко!
 ...

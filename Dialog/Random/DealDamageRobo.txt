@@ -1,5 +1,5 @@
-[Exterior Damage DETECTED]
-[OBSERVATION] OUCH!
-[UNFRIENDLY ACTION DETECTED]
-[DEMAND] CUT IT OUT!
-[DEMAND] STOP IT!
+[Обнаружено ВНЕШНЕЕ ПОВРЕЖДЕНИЕ]
+[НАБЛЮДЕНИЕ] АЙ!
+[Обнаружено НЕДРУЖЕСТВЕННОЕ ДЕЙСТВИЕ]
+[ТРЕБОВАНИЕ] ПРЕКРАТИТЕ!
+[ТРЕБОВАНИЕ] ОСТАНОВИТЕСЬ!
